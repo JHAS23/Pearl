@@ -97,9 +97,8 @@ def preprocess(df,icd_map_df,ft_list_df):
 		#print ("\n Rows with NA's \r\n", nans(df))
 		df_wo_na = df.dropna()
 		return df_wo_na
-    
 	df_cln = mis_val(df)
-    
+	
 	## Checking for ICD code and retaing only ICD9 and ICD10 codes
 	def icd_fix(icd_version):
 		conditions =  (icd_version.str.contains('10'))| (icd_version == '2'),(icd_version.str.contains('9'))| (icd_version == '1')
@@ -110,7 +109,9 @@ def preprocess(df,icd_map_df,ft_list_df):
 	## Feature creation using ICD codes
 	
 	df_cln['type_fix'] = icd_fix(df_cln[vers_type])
-	df_map = pd.merge(df_cln,icd_map_df,left_on=["type_fix",codes],right_on=["type","codes"] ,how = 'left')
+	
+	df_map = pd.merge(df_cln,icd_map_df,left_on=["type_fix","codes"],right_on=["type","codes"] ,how = 'left')
+	df_map.to_csv('test.csv')
 	df_map_cln = mis_val(df_map)
 	keys = ['short_desc','major','sub_chapter']
 	df_feature = df_map_cln.melt(id_vars= ptid,value_vars=keys,var_name= 'source',value_name='feature') #different syntax in lower versions
@@ -125,12 +126,12 @@ def preprocess(df,icd_map_df,ft_list_df):
 	
 	## Function to mask patient ID's
 def mask_patient_ids(df):
-	df['new_patient_id'] = df.reset_index().index
-	df['type'] = np.where(df['cohort_f']== 1,np.where(df['predicted_value']==1,"True Positive","False Negative"),np.where(df['predicted_value']==1,"False Positive","True Negative"))
-	patient_id_mask_mapping = df[['patient_id','new_patient_id']]
-	df['patient_id'] = df['new_patient_id']
-	df = df.drop(['new_patient_id'], axis = 1)
-	return patient_id_mask_mapping
+	#df['new_patient_id'] = df.reset_index().index
+	#df['type'] = np.where(df['cohort_f']== 1,np.where(df['predicted_value']==1,"True Positive","False Negative"),np.where(df['predicted_value']==1,"False Positive","True Negative"))
+	#patient_id_mask_mapping = df[['patient_id','new_patient_id']]
+	#df['patient_id'] = df['new_patient_id']
+	#df = df.drop(['new_patient_id'], axis = 1)
+	return df
 
 		
 	## Function to create phenotype groups	
@@ -276,9 +277,9 @@ def create_pt_lvl_comb_flags(df_wt,df_hf,desired_combinations,wt_pt,hf_pt):
 	
 
 def masking_with_mapp(df,mapping):
-	df = df.merge(mapping,how = 'inner', on ='patient_id')
-	df['patient_id'] = df['new_patient_id']
-	df = df.drop('new_patient_id', axis = 1)
+	#df = df.merge(mapping,how = 'inner', on ='patient_id')
+	#df['patient_id'] = df['new_patient_id']
+	#df = df.drop('new_patient_id', axis = 1)
 	return df
 
 def create_prediction_cohorts(df):

@@ -5,6 +5,7 @@ import processors as pr
 import calculations as calc
 import code_reduction as red
 import os, os.path, shutil
+import pandas as pd
 
 
 # Loading input patient level file for prediction
@@ -15,11 +16,16 @@ parent_dir = input_dir[0:-6]
 #print("Make sure that your input file follows the same format as sample_input.csv")
 input_name = "cleaned_input.csv"
 input_file_name = os.path.join(input_dir,input_name.strip())
-print(input_file_name)
+demographics_file_name = input("Input Demographics File Name (example: sample_input.csv): ")
+demographics_file_path = os.path.join(input_dir,"user_input_files")
+demographics_file_path = os.path.join(demographics_file_path,demographics_file_name.strip())
+demographics_file = pd.read_csv(demographics_file_path)
+prob_adjst = "prob_adjustment.csv"
+prob_adjst_path = os.path.join(input_dir,prob_adjst.strip())
+prob_adjst_file = pd.read_csv(prob_adjst_path)
 
 ## Create input path using file name and current working directory
 input_paths = res.Paths(os.getcwd().strip(),input_file_name.strip())
-print(input_paths)
 
 ## Calling input files using path created in previous step
 input_files = res.Datasets(input_paths)
@@ -42,8 +48,11 @@ flags = calc.Flags(input_df)
 ## Checking the sanity of the input data wrt HF and WT patients
 final_input_df = pr.Cleaning_Fetch_Data_Functions.input_check(input_df)
 
+#final_input_df = final_input_df.merge(input_files.icd_map_df['codes'], on = 'codes', how = 'inner')
+
 ## Create Prediction Cohorts
 df_1_1,df_1_9,df_1_19,df_hered_1_1,df_hered_1_9,df_hered_1_19,df_hered_incl_E851_1_1,df_hered_incl_E851_1_9,df_hered_incl_E851_1_19 = pr.create_prediction_cohorts(final_input_df)
+
 
 ## Converting the datatype of ICD codes and type to string
 dtype1 = dict(codes = str, type = str)
@@ -59,6 +68,8 @@ run_hered_1_9 = not df_hered_1_9.empty
 run_hered_incl_E851_1_9 = not df_hered_incl_E851_1_9.empty
 run_hered_1_19 = not df_hered_1_19.empty
 run_hered_incl_E851_1_19 = not df_hered_incl_E851_1_19.empty
+
+
 
 # Preprocess
 final_df_excluding_1_cm, final_df_including_all_features = pr.preprocess(final_input_df.astype(dtype1), input_files.icd_map_df,input_files.ft_list_df)
@@ -86,6 +97,8 @@ if run_hered_incl_E851_1_19:
 	#1)Excluding Cardiomyopathy in diseases classified elsewhere
 	#2)Including all the features
 print("Creating predictions with cleaned data...")
+
+
 
 ##wt df_1_1
 if run_wt_1_1:
@@ -236,8 +249,10 @@ if run_hered_incl_E851_1_19:
 		
 
 ## Patient Level Phenotype Combinations Flag
-pat_lvl_comb_pivot,combinations_combined = pr.create_pt_lvl_comb_flags(wt_pat_lvl_comb,hf_pat_lvl_comb,input_files.phenotype_comb_list,wt_pt_ct,hf_pt_ct)
-final_pat_lvl_comb_pivot = pr.masking_with_mapp(pat_lvl_comb_pivot,mask_mapping)
+#pat_lvl_comb_pivot,combinations_combined = pr.create_pt_lvl_comb_flags(wt_pat_lvl_comb,hf_pat_lvl_comb,input_files.phenotype_comb_list,wt_pt_ct,hf_pt_ct)
+#final_pat_lvl_comb_pivot = pr.masking_with_mapp(pat_lvl_comb_pivot,mask_mapping)
+
+
 
 
 ## Exporting the Outputs for both the scenarios-
@@ -254,6 +269,26 @@ def create_output_folder(path):
 	except OSError:
 		print("Creation of the directory {} failed".format(path))
 
+if run_wt_1_1:	
+	final_prediction_output_including_all_features_df_1_1 = final_prediction_output_including_all_features_df_1_1.merge(demographics_file, on = 'patient_id', how = 'left')
+	final_prediction_output_including_all_features_df_1_1 = final_prediction_output_including_all_features_df_1_1.merge(prob_adjst_file, on = ['age','sex'], how = 'left')
+	final_prediction_output_including_all_features_df_1_1['adjusted_probability'] = final_prediction_output_including_all_features_df_1_1['multiplier']*final_prediction_output_including_all_features_df_1_1['probability_of_value_1']
+	final_prediction_output_including_all_features_df_1_1['suspicion_index'] = final_prediction_output_including_all_features_df_1_1['probability_of_value_1']/final_prediction_output_including_all_features_df_1_1['probability_of_value_0']
+	final_prediction_output_including_all_features_df_1_1 = final_prediction_output_including_all_features_df_1_1.drop(['age_sex_wt_count','wt_posterior_age_sex','hf_posterior_age_sex','age_sex_hf_count','multiplier'],axis =1)
+
+if run_wt_1_9:
+	final_prediction_output_including_all_features_df_1_9 = final_prediction_output_including_all_features_df_1_9.merge(demographics_file, on = 'patient_id', how = 'left')
+	final_prediction_output_including_all_features_df_1_9 = final_prediction_output_including_all_features_df_1_9.merge(prob_adjst_file, on = ['age','sex'], how = 'left')
+	final_prediction_output_including_all_features_df_1_9['adjusted_probability'] = final_prediction_output_including_all_features_df_1_9['multiplier']*final_prediction_output_including_all_features_df_1_9['probability_of_value_1']
+	final_prediction_output_including_all_features_df_1_9['suspicion_index'] = final_prediction_output_including_all_features_df_1_9['probability_of_value_1']/final_prediction_output_including_all_features_df_1_9['probability_of_value_0']
+	final_prediction_output_including_all_features_df_1_9 = final_prediction_output_including_all_features_df_1_9.drop(['age_sex_wt_count','wt_posterior_age_sex','hf_posterior_age_sex','age_sex_hf_count','multiplier'],axis =1)
+
+if run_wt_1_19:
+	final_prediction_output_including_all_features_df_1_19 = final_prediction_output_including_all_features_df_1_19.merge(demographics_file, on = 'patient_id', how = 'left')
+	final_prediction_output_including_all_features_df_1_19 = final_prediction_output_including_all_features_df_1_19.merge(prob_adjst_file, on = ['age','sex'], how = 'left')
+	final_prediction_output_including_all_features_df_1_19['adjusted_probability'] = final_prediction_output_including_all_features_df_1_19['multiplier']*final_prediction_output_including_all_features_df_1_19['probability_of_value_1']
+	final_prediction_output_including_all_features_df_1_19['suspicion_index'] = final_prediction_output_including_all_features_df_1_19['probability_of_value_1']/final_prediction_output_including_all_features_df_1_19['probability_of_value_0']
+	final_prediction_output_including_all_features_df_1_19 = final_prediction_output_including_all_features_df_1_19.drop(['age_sex_wt_count','wt_posterior_age_sex','hf_posterior_age_sex','age_sex_hf_count','multiplier'],axis =1)
 
 if run_wt_1_1:
 	print("Exporting output files for WT 1:1...")

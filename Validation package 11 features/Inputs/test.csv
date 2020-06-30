@@ -1,0 +1,555 @@
+,patient_id,codes,type_x,feature,WT_flag,here_flag,here_incl_E851_flag,type_fix,type_y,version_type,short_desc,major,sub_chapter
+0,PT100692783,E8582,2,amyloidosis,1,0,0,ICD10,ICD10,2,,,
+1,PT100692783,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+2,PT100692783,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+3,PT100692783,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+4,PT100692783,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+5,PT100692783,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+6,PT100692783,E858,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+7,PT100692783,E851,2,amyloidosis,0,0,1,ICD10,ICD10,2,,,
+8,PT100692783,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+9,PT100692783,E854,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+10,PT100692783,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+11,PT100692783,E853,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+12,PT100692783,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+13,PT100692783,M25861,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+14,PT100692783,Z96643,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+15,PT268593899,E8582,2,amyloidosis,1,0,0,ICD10,ICD10,2,,,
+16,PT268593899,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+17,PT268593899,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+18,PT268593899,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+19,PT268593899,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+20,PT268593899,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+21,PT268593899,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+22,PT268593899,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+23,PT268593899,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+24,PT268593899,E858,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+25,PT268593899,E851,2,amyloidosis,0,0,1,ICD10,ICD10,2,,,
+26,PT268593899,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+27,PT268593899,E854,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+28,PT268593899,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+29,PT268593899,E853,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+30,PT268593899,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+31,PT268593899,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+32,PT268593899,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+33,PT268593899,I5021,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+34,PT268593899,I313,2,pericarditis,0,0,0,ICD10,ICD10,2,pericardial effusion pericarditis,pericardial effusion pericarditis,pericardial effusion pericarditis
+35,PT276338157,E8582,2,amyloidosis,1,0,0,ICD10,ICD10,2,,,
+36,PT276338157,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+37,PT276338157,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+38,PT276338157,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+39,PT276338157,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+40,PT276338157,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+41,PT276338157,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+42,PT276338157,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+43,PT276338157,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+44,PT276338157,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+45,PT276338157,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+46,PT276338157,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+47,PT276338157,I454,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+48,PT276338157,I459,2,cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+49,PT276338157,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+50,PT276338157,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+51,PT276338157,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+52,PT276338157,E858,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+53,PT276338157,I441,2,second_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+54,PT276338157,E851,2,amyloidosis,0,0,1,ICD10,ICD10,2,,,
+55,PT276338157,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+56,PT276338157,I5041,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+57,PT276338157,E854,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+58,PT276338157,E859,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+59,PT276338157,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+60,PT276338157,E853,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+61,PT276338157,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+62,PT276338157,I4430,2,atrioventricular__av__block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+63,PT276338157,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+64,PT278914214,E8582,2,amyloidosis,1,0,0,ICD10,ICD10,2,,,
+65,PT278914214,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+66,PT278914214,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+67,PT278914214,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+68,PT278914214,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+69,PT278914214,E858,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+70,PT278914214,E851,2,amyloidosis,0,0,1,ICD10,ICD10,2,,,
+71,PT278914214,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+72,PT278914214,E854,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+73,PT278914214,E859,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+74,PT278914214,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+75,PT278914214,E853,2,amyloidosis,0,0,0,ICD10,ICD10,2,,,
+76,PT278914214,I4430,2,atrioventricular__av__block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+77,PT278914214,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+78,PT278914214,I484,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+79,PT374614351,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+80,PT374614351,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+81,PT374614351,I5021,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+82,PT264683627,I452,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+83,PT264683627,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+84,PT264683627,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+85,PT264683627,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+86,PT264683627,I444,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+87,PT264683627,G6289,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+88,PT335784273,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+89,PT335784273,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+90,PT335784273,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+91,PT335784273,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+92,PT343703406,I452,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+93,PT343703406,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+94,PT343703406,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+95,PT343703406,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+96,PT343703406,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+97,PT343703406,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+98,PT343703406,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+99,PT343703406,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+100,PT343703406,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+101,PT343703406,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+102,PT343703406,I483,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+103,PT343703406,I442,2,atrioventricular_block__complete,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+104,PT358166145,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+105,PT358166145,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+106,PT358166145,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+107,PT358166145,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+108,PT358166145,G629,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+109,PT268386053,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+110,PT268386053,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+111,PT268386053,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+112,PT268386053,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+113,PT268386053,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+114,PT268386053,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+115,PT268386053,I5021,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+116,PT268386053,I313,2,pericarditis,0,0,0,ICD10,ICD10,2,pericardial effusion pericarditis,pericardial effusion pericarditis,pericardial effusion pericarditis
+117,PT437716209,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+118,PT437716209,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+119,PT437716209,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+120,PT437716209,H2510,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+121,PT437716209,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+122,PT437716209,D472,2,paraproteinemia,0,0,0,ICD10,ICD10,2,paraproteinemia,paraproteinemia,paraproteinemia
+123,PT256731627,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+124,PT256731627,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+125,PT256731627,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+126,PT097822600,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+127,PT097822600,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+128,PT097822600,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+129,PT406366916,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+130,PT406366916,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+131,PT406366916,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+132,PT406366916,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+133,PT406366916,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+134,PT406366916,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+135,PT406366916,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+136,PT406366916,G5600,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+137,PT088445635,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+138,PT088445635,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+139,PT131637916,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+140,PT131637916,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+141,PT131637916,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+142,PT131637916,I454,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+143,PT131637916,I459,2,cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+144,PT131637916,I4430,2,atrioventricular__av__block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+145,PT131637916,I4439,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+146,PT344023198,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+147,PT344023198,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+148,PT344023198,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+149,PT344023198,G5600,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+150,PT193581472,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+151,PT193581472,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+152,PT193581472,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+153,PT193581472,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+154,PT193581472,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+155,PT193581472,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+156,PT193581472,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+157,PT193581472,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+158,PT403996615,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+159,PT147719507,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+160,PT147719507,H2513,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+161,PT147719507,H40003,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+162,PT147719507,H43811,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+163,PT355692251,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+164,PT355692251,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+165,PT355692251,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+166,PT355692251,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+167,PT355692251,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+168,PT355692251,I454,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+169,PT355692251,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+170,PT208092275,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+171,PT208092275,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+172,PT208092275,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+173,PT208092275,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+174,PT216884119,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+175,PT216884119,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+176,PT216884119,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+177,PT216884119,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+178,PT216884119,H43819,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+179,PT216884119,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+180,PT216884119,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+181,PT216884119,I5041,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+182,PT216884119,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+183,PT216884119,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+184,PT216884119,I5021,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+185,PT216884119,I313,2,pericarditis,0,0,0,ICD10,ICD10,2,pericardial effusion pericarditis,pericardial effusion pericarditis,pericardial effusion pericarditis
+186,PT216884119,G63,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+187,PT216884119,H43813,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+188,PT216884119,H26492,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+189,PT216884119,H40003,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+190,PT216884119,H40001,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+191,PT336545840,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+192,PT336545840,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+193,PT336545840,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+194,PT336545840,Z96649,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+195,PT336545840,G629,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+196,PT336545840,Z96642,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+197,PT336545840,I4589,2,other_cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+198,PT336545840,Z96641,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+199,PT192900952,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+200,PT192900952,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+201,PT192900952,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+202,PT192900952,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+203,PT192900952,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+204,PT101014280,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+205,PT101014280,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+206,PT101014280,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+207,PT101014280,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+208,PT101014280,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+209,PT101014280,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+210,PT101014280,H2510,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+211,PT101014280,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+212,PT101014280,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+213,PT101014280,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+214,PT101014280,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+215,PT101014280,M4807,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+216,PT101014280,M48062,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+217,PT101014280,H4313,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+218,PT101014280,H4312,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+219,PT184854177,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+220,PT184854177,H2510,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+221,PT184854177,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+222,PT184854177,H2513,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+223,PT338217750,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+224,PT338217750,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+225,PT338217750,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+226,PT199318941,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+227,PT199318941,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+228,PT199318941,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+229,PT199318941,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+230,PT199318941,I459,2,cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+231,PT199318941,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+232,PT199318941,Z96659,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+233,PT088554911,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+234,PT088554911,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+235,PT088554911,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+236,PT088554911,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+237,PT420129689,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+238,PT420129689,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+239,PT420129689,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+240,PT420129689,I4460,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+241,PT420129689,I444,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+242,PT420129689,I445,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+243,PT420129689,I4469,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+244,PT257283344,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+245,PT257283344,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+246,PT257283344,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+247,PT257283344,M48061,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+248,PT135206553,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+249,PT135206553,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+250,PT255369182,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+251,PT255369182,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+252,PT255369182,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+253,PT255369182,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+254,PT255369182,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+255,PT255369182,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+256,PT255369182,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+257,PT255369182,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+258,PT255369182,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+259,PT255369182,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+260,PT255369182,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+261,PT255369182,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+262,PT255369182,I454,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+263,PT255369182,I459,2,cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+264,PT255369182,I5040,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+265,PT255369182,H2510,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+266,PT255369182,H43819,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+267,PT255369182,H43399,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+268,PT255545572,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+269,PT255545572,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+270,PT255545572,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+271,PT255545572,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+272,PT255545572,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+273,PT329959414,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+274,PT329959414,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+275,PT262747167,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+276,PT262747167,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+277,PT262747167,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+278,PT262747167,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+279,PT262747167,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+280,PT262747167,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+281,PT262747167,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+282,PT262747167,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+283,PT262747167,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+284,PT262747167,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+285,PT262747167,I5021,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+286,PT101127013,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+287,PT101127013,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+288,PT101127013,Z96659,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+289,PT101127013,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+290,PT101127013,Z96652,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+291,PT101127013,M48061,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+292,PT101127013,M4807,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+293,PT101127013,Z96651,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+294,PT101127013,Z96653,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+295,PT468439287,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+296,PT468439287,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+297,PT255773219,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+298,PT255773219,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+299,PT255773219,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+300,PT255773219,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+301,PT255773219,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+302,PT255773219,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+303,PT255773219,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+304,PT255773219,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+305,PT255773219,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+306,PT255773219,G5600,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+307,PT255773219,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+308,PT255773219,G5602,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+309,PT255773219,Z96651,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+310,PT255773219,M7500,2,enthesopathy,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+311,PT271992753,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+312,PT271992753,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+313,PT271992753,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+314,PT271992753,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+315,PT271992753,Z96649,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+316,PT215826525,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+317,PT215826525,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+318,PT215826525,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+319,PT215826525,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+320,PT215826525,I4460,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+321,PT215826525,I444,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+322,PT215826525,I445,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+323,PT215826525,I4469,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+324,PT468220490,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+325,PT468220490,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+326,PT335759923,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+327,PT335759923,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+328,PT335759923,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+329,PT335759923,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+330,PT335759923,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+331,PT335759923,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+332,PT420665390,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+333,PT420665390,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+334,PT420665390,I459,2,cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+335,PT420665390,G629,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+336,PT420665390,G5600,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+337,PT217468024,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+338,PT217468024,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+339,PT217468024,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+340,PT217468024,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+341,PT217468024,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+342,PT217468024,G63,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+343,PT217468024,G629,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+344,PT390851049,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+345,PT390851049,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+346,PT390851049,I442,2,atrioventricular_block__complete,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+347,PT330276210,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+348,PT330276210,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+349,PT330276210,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+350,PT330276210,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+351,PT376535172,Z96659,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+352,PT376535172,Z96651,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+353,PT329561985,I452,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+354,PT329561985,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+355,PT329561985,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+356,PT329561985,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+357,PT116560660,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+358,PT116560660,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+359,PT116560660,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+360,PT116560660,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+361,PT116560660,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+362,PT116560660,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+363,PT116560660,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+364,PT116560660,I5031,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+365,PT116560660,H40009,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+366,PT356400560,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+367,PT356400560,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+368,PT356400560,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+369,PT356400560,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+370,PT356400560,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+371,PT108985166,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+372,PT108985166,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+373,PT108985166,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+374,PT108985166,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+375,PT215302514,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+376,PT215302514,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+377,PT215302514,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+378,PT215302514,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+379,PT215302514,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+380,PT215302514,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+381,PT215302514,I4589,2,other_cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+382,PT215302514,M7620,2,enthesopathy,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+383,PT215302514,M7610,2,enthesopathy,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+384,PT215302514,M7060,2,enthesopathy,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+385,PT215302514,M7070,2,enthesopathy,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+386,PT108657429,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+387,PT108657429,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+388,PT108657429,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+389,PT306559194,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+390,PT306559194,H2589,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+391,PT306559194,H25819,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+392,PT120002128,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+393,PT120002128,H2510,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+394,PT120002128,H43819,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+395,PT120002128,G629,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+396,PT120002128,G5600,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+397,PT123806442,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+398,PT123806442,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+399,PT123806442,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+400,PT123806442,Z96659,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+401,PT123806442,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+402,PT283307363,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+403,PT219345883,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+404,PT219345883,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+405,PT219345883,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+406,PT219345883,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+407,PT219345883,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+408,PT101057988,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+409,PT101057988,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+410,PT101057988,M25761,2,enthesopathy,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+411,PT101057988,M25762,2,enthesopathy,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+412,PT101057988,M4807,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+413,PT101057988,M9973,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+414,PT327197567,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+415,PT327197567,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+416,PT327197567,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+417,PT415691726,Z96612,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+418,PT415691726,Z96619,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+419,PT086873209,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+420,PT086873209,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+421,PT086873209,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+422,PT086873209,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+423,PT086873209,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+424,PT086873209,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+425,PT086873209,H2512,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+426,PT086873209,H527,2,disorders_of_refraction_and_accommodation__blindness_and_low_vision,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+427,PT086873209,H2511,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+428,PT086873209,H259,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+429,PT086873209,H25012,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+430,PT301775732,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+431,PT301775732,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+432,PT345369902,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+433,PT345369902,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+434,PT345369902,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+435,PT345369902,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+436,PT345369902,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+437,PT345369902,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+438,PT345369902,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+439,PT345369902,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+440,PT345369902,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+441,PT345369902,I4430,2,atrioventricular__av__block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+442,PT345369902,Z96659,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+443,PT345369902,Z96651,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+444,PT438055638,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+445,PT438055638,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+446,PT438055638,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+447,PT438055638,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+448,PT438055638,I5040,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+449,PT438055638,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+450,PT438055638,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+451,PT438055638,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+452,PT438055638,G5600,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+453,PT374161919,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+454,PT374161919,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+455,PT374161919,I5041,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+456,PT340639863,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+457,PT340639863,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+458,PT340639863,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+459,PT340639863,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+460,PT340639863,I454,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+461,PT340639863,H2510,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+462,PT340639863,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+463,PT340639863,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+464,PT340639863,I5041,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+465,PT340639863,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+466,PT340639863,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+467,PT340639863,I484,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+468,PT340639863,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+469,PT340639863,I483,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+470,PT340639863,H2513,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+471,PT340639863,M48062,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+472,PT340639863,I455,2,other_heart_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+473,PT468426142,I452,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+474,PT468426142,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+475,PT468426142,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+476,PT468426142,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+477,PT468426142,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+478,PT468426142,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+479,PT468426142,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+480,PT468426142,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+481,PT468426142,I481,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+482,PT468426142,I5032,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+483,PT468426142,G629,2,inflammatory_and_toxic_neuropathy,0,0,0,ICD10,ICD10,2,sensory disturbance,sensory disturbance,sensory disturbance
+484,PT468426142,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+485,PT468426142,I444,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+486,PT468426142,H43813,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+487,PT468426142,H26492,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+488,PT468426142,G5601,2,carpal_tunnel,0,0,0,ICD10,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
+489,PT468426142,I4519,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+490,PT468426142,H26493,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+491,PT468426142,H26491,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+492,PT087751238,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+493,PT087751238,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+494,PT087751238,I5043,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+495,PT406705924,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+496,PT406705924,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+497,PT406705924,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+498,PT406705924,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+499,PT406705924,R748,2,abnormal_serum_enzyme_levels,0,0,0,ICD10,ICD10,2,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry,abnormal serum enzymes or blood chemistry
+500,PT406705924,I5021,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+501,PT406705924,D472,2,paraproteinemia,0,0,0,ICD10,ICD10,2,paraproteinemia,paraproteinemia,paraproteinemia
+502,PT325883630,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+503,PT325883630,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+504,PT325883630,I447,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+505,PT325883630,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+506,PT325883630,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+507,PT325883630,M48061,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+508,PT360229511,I452,2,bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+509,PT360229511,I4510,2,right_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+510,PT360229511,I4892,2,atrial_flutter,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+511,PT360229511,I5042,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+512,PT360229511,Z96659,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+513,PT360229511,I4460,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+514,PT360229511,I444,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+515,PT360229511,I445,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+516,PT360229511,I4469,2,left_bundle_branch_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+517,PT360229511,Z96651,2,symptoms_and_disorders_of_the_joints,0,0,0,ICD10,ICD10,2,symptoms and disorders of the joints,symptoms and disorders of the joints,symptoms and disorders of the joints
+518,PT101401468,H4389,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+519,PT101401468,H43812,2,disorders_of_vitreous_body,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+520,PT383147665,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+521,PT383147665,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+522,PT383147665,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+523,PT383147665,I429,2,primary_intrinsic_cardiomyopathies,0,0,0,ICD10,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies
+524,PT383147665,I5023,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+525,PT383147665,I440,2,first_degree_av_block,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+526,PT383147665,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+527,PT383147665,I5021,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+528,PT383147665,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+529,PT383147665,H40009,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+530,PT198591987,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+531,PT198591987,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+532,PT198591987,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+533,PT198591987,H409,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+534,PT123766283,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+535,PT123766283,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+536,PT123766283,I480,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+537,PT123766283,H2510,2,senile_cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+538,PT123766283,I5033,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+539,PT123766283,I482,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+540,PT123766283,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+541,PT123766283,H40009,2,glaucoma,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+542,PT123766283,H26499,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+543,PT434733029,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+544,PT434733029,I459,2,cardiac_conduction_disorders,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
+545,PT434733029,I5030,2,heart_failure_with_preserved_ef__diastolic_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure,heart failure with preserved ef diastolic heart failure
+546,PT369108366,I5022,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+547,PT369108366,I517,2,cardiomegaly,0,0,0,ICD10,ICD10,2,cardiomegaly,cardiomegaly,cardiomegaly
+548,PT369108366,I4891,2,atrial_fibrillation,0,0,0,ICD10,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
+549,PT369108366,I5020,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+550,PT369108366,I5040,2,heart_failure_with_reduced_ef__systolic_or_combined_heart_failure_,0,0,0,ICD10,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
+551,PT369108366,H269,2,cataract,0,0,0,ICD10,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
+552,PT369108366,M4806,2,spinal_stenosis_of_lumbar_region,0,0,0,ICD10,ICD10,2,spintal stenosis of lumbar region,spintal stenosis of lumbar region,spintal stenosis of lumbar region
+553,PT369108366,I442,2,atrioventricular_block__complete,0,0,0,ICD10,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
