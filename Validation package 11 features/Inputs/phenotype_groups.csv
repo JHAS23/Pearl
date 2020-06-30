@@ -1,0 +1,1941 @@
+codes,phecode,phenotype,phenotype_group
+I480,427.21,Atrial fibrillation,Atrial Flutter and/or Fibrillation
+I482,427.21,Atrial fibrillation,Atrial Flutter and/or Fibrillation
+I489,427.21,Atrial fibrillation,Atrial Flutter and/or Fibrillation
+I4891,427.21,Atrial fibrillation,Atrial Flutter and/or Fibrillation
+I481,427.22,Atrial flutter,Atrial Flutter and/or Fibrillation
+I483,427.22,Atrial flutter,Atrial Flutter and/or Fibrillation
+I484,427.22,Atrial flutter,Atrial Flutter and/or Fibrillation
+I4892,427.22,Atrial flutter,Atrial Flutter and/or Fibrillation
+I517,416,Cardiomegaly,Cardiomegaly
+G560,351,Carpal Tunnel,Carpal Tunnel
+G5600,351,Carpal Tunnel,Carpal Tunnel
+G5601,351,Carpal Tunnel,Carpal Tunnel
+G5602,351,Carpal Tunnel,Carpal Tunnel
+G5603,351,Carpal Tunnel,Carpal Tunnel
+N181,585.4,"Chronic kidney disease, Stage I or II",Chronic Kidney Disease
+N182,585.4,"Chronic kidney disease, Stage I or II",Chronic Kidney Disease
+N183,585.33,"Chronic Kidney Disease, Stage III",Chronic Kidney Disease
+N184,585.34,"Chronic Kidney Disease, Stage IV",Chronic Kidney Disease
+N18,585.3,Chronic renal failure [CKD],Chronic Kidney Disease
+N189,585.3,Chronic renal failure [CKD],Chronic Kidney Disease
+I443,426.2,Atrioventricular [AV] block,Heart Block
+I4430,426.2,Atrioventricular [AV] block,Heart Block
+I442,426.24,"Atrioventricular block, complete",Heart Block
+I4439,426.3,Bundle branch block,Heart Block
+I452,426.3,Bundle branch block,Heart Block
+I453,426.3,Bundle branch block,Heart Block
+I454,426.3,Bundle branch block,Heart Block
+I440,426.21,First degree AV block,Heart Block
+I444,426.32,Left bundle branch block,Heart Block
+I445,426.32,Left bundle branch block,Heart Block
+I446,426.32,Left bundle branch block,Heart Block
+I4460,426.32,Left bundle branch block,Heart Block
+I4469,426.32,Left bundle branch block,Heart Block
+I447,426.32,Left bundle branch block,Heart Block
+I455,426.25,Other heart block,Heart Block
+I450,426.31,Right bundle branch block,Heart Block
+I451,426.31,Right bundle branch block,Heart Block
+I4510,426.31,Right bundle branch block,Heart Block
+I4519,426.31,Right bundle branch block,Heart Block
+I441,426.23,Second degree AV block,Heart Block
+M254,741.4,Joint effusions,Joint Disorders
+M2540,741.4,Joint effusions,Joint Disorders
+M2541,741.4,Joint effusions,Joint Disorders
+M25411,741.4,Joint effusions,Joint Disorders
+M25412,741.4,Joint effusions,Joint Disorders
+M25419,741.4,Joint effusions,Joint Disorders
+M2542,741.4,Joint effusions,Joint Disorders
+M25421,741.4,Joint effusions,Joint Disorders
+M25422,741.4,Joint effusions,Joint Disorders
+M25429,741.4,Joint effusions,Joint Disorders
+M2543,741.4,Joint effusions,Joint Disorders
+M25431,741.4,Joint effusions,Joint Disorders
+M25432,741.4,Joint effusions,Joint Disorders
+M25439,741.4,Joint effusions,Joint Disorders
+M2544,741.4,Joint effusions,Joint Disorders
+M25441,741.4,Joint effusions,Joint Disorders
+M25442,741.4,Joint effusions,Joint Disorders
+M25449,741.4,Joint effusions,Joint Disorders
+M2545,741.4,Joint effusions,Joint Disorders
+M25451,741.4,Joint effusions,Joint Disorders
+M25452,741.4,Joint effusions,Joint Disorders
+M25459,741.4,Joint effusions,Joint Disorders
+M2546,741.4,Joint effusions,Joint Disorders
+M25461,741.4,Joint effusions,Joint Disorders
+M25462,741.4,Joint effusions,Joint Disorders
+M25469,741.4,Joint effusions,Joint Disorders
+M2547,741.4,Joint effusions,Joint Disorders
+M25471,741.4,Joint effusions,Joint Disorders
+M25472,741.4,Joint effusions,Joint Disorders
+M25473,741.4,Joint effusions,Joint Disorders
+M25474,741.4,Joint effusions,Joint Disorders
+M25475,741.4,Joint effusions,Joint Disorders
+M25476,741.4,Joint effusions,Joint Disorders
+M2548,741.4,Joint effusions,Joint Disorders
+M256,741.2,Stiffness of joint,Joint Disorders
+M2560,741.2,Stiffness of joint,Joint Disorders
+M2561,741.2,Stiffness of joint,Joint Disorders
+M25611,741.2,Stiffness of joint,Joint Disorders
+M25612,741.2,Stiffness of joint,Joint Disorders
+M25619,741.2,Stiffness of joint,Joint Disorders
+M2562,741.2,Stiffness of joint,Joint Disorders
+M25621,741.2,Stiffness of joint,Joint Disorders
+M25622,741.2,Stiffness of joint,Joint Disorders
+M25629,741.2,Stiffness of joint,Joint Disorders
+M2563,741.2,Stiffness of joint,Joint Disorders
+M25631,741.2,Stiffness of joint,Joint Disorders
+M25632,741.2,Stiffness of joint,Joint Disorders
+M25639,741.2,Stiffness of joint,Joint Disorders
+M2564,741.2,Stiffness of joint,Joint Disorders
+M25641,741.2,Stiffness of joint,Joint Disorders
+M25642,741.2,Stiffness of joint,Joint Disorders
+M25649,741.2,Stiffness of joint,Joint Disorders
+M2565,741.2,Stiffness of joint,Joint Disorders
+M25651,741.2,Stiffness of joint,Joint Disorders
+M25652,741.2,Stiffness of joint,Joint Disorders
+M25659,741.2,Stiffness of joint,Joint Disorders
+M2566,741.2,Stiffness of joint,Joint Disorders
+M25661,741.2,Stiffness of joint,Joint Disorders
+M25662,741.2,Stiffness of joint,Joint Disorders
+M25669,741.2,Stiffness of joint,Joint Disorders
+M2567,741.2,Stiffness of joint,Joint Disorders
+M25671,741.2,Stiffness of joint,Joint Disorders
+M25672,741.2,Stiffness of joint,Joint Disorders
+M25673,741.2,Stiffness of joint,Joint Disorders
+M25674,741.2,Stiffness of joint,Joint Disorders
+M25675,741.2,Stiffness of joint,Joint Disorders
+M25676,741.2,Stiffness of joint,Joint Disorders
+M12,741,Symptoms and disorders of the joints,Joint Disorders
+M222,741,Symptoms and disorders of the joints,Joint Disorders
+M222X,741,Symptoms and disorders of the joints,Joint Disorders
+M222X1,741,Symptoms and disorders of the joints,Joint Disorders
+M222X2,741,Symptoms and disorders of the joints,Joint Disorders
+M222X9,741,Symptoms and disorders of the joints,Joint Disorders
+M228,741,Symptoms and disorders of the joints,Joint Disorders
+M228X,741,Symptoms and disorders of the joints,Joint Disorders
+M228X1,741,Symptoms and disorders of the joints,Joint Disorders
+M228X2,741,Symptoms and disorders of the joints,Joint Disorders
+M228X9,741,Symptoms and disorders of the joints,Joint Disorders
+M2485,741,Symptoms and disorders of the joints,Joint Disorders
+M251,741,Symptoms and disorders of the joints,Joint Disorders
+M2510,741,Symptoms and disorders of the joints,Joint Disorders
+M2511,741,Symptoms and disorders of the joints,Joint Disorders
+M25111,741,Symptoms and disorders of the joints,Joint Disorders
+M25112,741,Symptoms and disorders of the joints,Joint Disorders
+M25119,741,Symptoms and disorders of the joints,Joint Disorders
+M2512,741,Symptoms and disorders of the joints,Joint Disorders
+M25121,741,Symptoms and disorders of the joints,Joint Disorders
+M25122,741,Symptoms and disorders of the joints,Joint Disorders
+M25129,741,Symptoms and disorders of the joints,Joint Disorders
+M2513,741,Symptoms and disorders of the joints,Joint Disorders
+M25131,741,Symptoms and disorders of the joints,Joint Disorders
+M25132,741,Symptoms and disorders of the joints,Joint Disorders
+M25139,741,Symptoms and disorders of the joints,Joint Disorders
+M2514,741,Symptoms and disorders of the joints,Joint Disorders
+M25141,741,Symptoms and disorders of the joints,Joint Disorders
+M25142,741,Symptoms and disorders of the joints,Joint Disorders
+M25149,741,Symptoms and disorders of the joints,Joint Disorders
+M2515,741,Symptoms and disorders of the joints,Joint Disorders
+M25151,741,Symptoms and disorders of the joints,Joint Disorders
+M25152,741,Symptoms and disorders of the joints,Joint Disorders
+M25159,741,Symptoms and disorders of the joints,Joint Disorders
+M2516,741,Symptoms and disorders of the joints,Joint Disorders
+M25161,741,Symptoms and disorders of the joints,Joint Disorders
+M25162,741,Symptoms and disorders of the joints,Joint Disorders
+M25169,741,Symptoms and disorders of the joints,Joint Disorders
+M2517,741,Symptoms and disorders of the joints,Joint Disorders
+M25171,741,Symptoms and disorders of the joints,Joint Disorders
+M25172,741,Symptoms and disorders of the joints,Joint Disorders
+M25173,741,Symptoms and disorders of the joints,Joint Disorders
+M25174,741,Symptoms and disorders of the joints,Joint Disorders
+M25175,741,Symptoms and disorders of the joints,Joint Disorders
+M25176,741,Symptoms and disorders of the joints,Joint Disorders
+M2518,741,Symptoms and disorders of the joints,Joint Disorders
+M258,741,Symptoms and disorders of the joints,Joint Disorders
+M2580,741,Symptoms and disorders of the joints,Joint Disorders
+M2581,741,Symptoms and disorders of the joints,Joint Disorders
+M25811,741,Symptoms and disorders of the joints,Joint Disorders
+M25812,741,Symptoms and disorders of the joints,Joint Disorders
+M25819,741,Symptoms and disorders of the joints,Joint Disorders
+M2582,741,Symptoms and disorders of the joints,Joint Disorders
+M25821,741,Symptoms and disorders of the joints,Joint Disorders
+M25822,741,Symptoms and disorders of the joints,Joint Disorders
+M25829,741,Symptoms and disorders of the joints,Joint Disorders
+M2583,741,Symptoms and disorders of the joints,Joint Disorders
+M25831,741,Symptoms and disorders of the joints,Joint Disorders
+M25832,741,Symptoms and disorders of the joints,Joint Disorders
+M25839,741,Symptoms and disorders of the joints,Joint Disorders
+M2584,741,Symptoms and disorders of the joints,Joint Disorders
+M25841,741,Symptoms and disorders of the joints,Joint Disorders
+M25842,741,Symptoms and disorders of the joints,Joint Disorders
+M25849,741,Symptoms and disorders of the joints,Joint Disorders
+M2585,741,Symptoms and disorders of the joints,Joint Disorders
+M25851,741,Symptoms and disorders of the joints,Joint Disorders
+M25852,741,Symptoms and disorders of the joints,Joint Disorders
+M25859,741,Symptoms and disorders of the joints,Joint Disorders
+M2586,741,Symptoms and disorders of the joints,Joint Disorders
+M25861,741,Symptoms and disorders of the joints,Joint Disorders
+M25862,741,Symptoms and disorders of the joints,Joint Disorders
+M25869,741,Symptoms and disorders of the joints,Joint Disorders
+M2587,741,Symptoms and disorders of the joints,Joint Disorders
+M25871,741,Symptoms and disorders of the joints,Joint Disorders
+M25872,741,Symptoms and disorders of the joints,Joint Disorders
+M25879,741,Symptoms and disorders of the joints,Joint Disorders
+M259,741,Symptoms and disorders of the joints,Joint Disorders
+R294,741,Symptoms and disorders of the joints,Joint Disorders
+Z96611,741,Symptoms and disorders of the joints,Joint Disorders
+Z96612,741,Symptoms and disorders of the joints,Joint Disorders
+Z96619,741,Symptoms and disorders of the joints,Joint Disorders
+Z96641,741,Symptoms and disorders of the joints,Joint Disorders
+Z96642,741,Symptoms and disorders of the joints,Joint Disorders
+Z96643,741,Symptoms and disorders of the joints,Joint Disorders
+Z96649,741,Symptoms and disorders of the joints,Joint Disorders
+Z96651,741,Symptoms and disorders of the joints,Joint Disorders
+Z96652,741,Symptoms and disorders of the joints,Joint Disorders
+Z96653,741,Symptoms and disorders of the joints,Joint Disorders
+Z96659,741,Symptoms and disorders of the joints,Joint Disorders
+Z981,741,Symptoms and disorders of the joints,Joint Disorders
+M65,727.1,Synovitis and tenosynovitis,Joint Disorders
+M651,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6510,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6511,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65111,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65112,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65119,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6512,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65121,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65122,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65129,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6513,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65131,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65132,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65139,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6514,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65141,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65142,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65149,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6515,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65151,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65152,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65159,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6516,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65161,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65162,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65169,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6517,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65171,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65172,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65179,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6518,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6519,727.1,Synovitis and tenosynovitis,Joint Disorders
+M653,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6530,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6531,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65311,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65312,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65319,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6532,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65321,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65322,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65329,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6533,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65331,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65332,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65339,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6534,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65341,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65342,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65349,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6535,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65351,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65352,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65359,727.1,Synovitis and tenosynovitis,Joint Disorders
+M654,727.1,Synovitis and tenosynovitis,Joint Disorders
+M658,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6580,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6581,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65811,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65812,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65819,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6582,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65821,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65822,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65829,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6583,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65831,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65832,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65839,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6584,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65841,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65842,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65849,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6585,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65851,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65852,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65859,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6586,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65861,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65862,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65869,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6587,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65871,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65872,727.1,Synovitis and tenosynovitis,Joint Disorders
+M65879,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6588,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6589,727.1,Synovitis and tenosynovitis,Joint Disorders
+M659,727.1,Synovitis and tenosynovitis,Joint Disorders
+M673,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6730,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6731,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67311,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67312,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67319,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6732,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67321,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67322,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67329,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6733,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67331,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67332,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67339,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6734,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67341,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67342,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67349,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6735,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67351,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67352,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67359,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6736,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67361,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67362,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67369,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6737,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67371,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67372,727.1,Synovitis and tenosynovitis,Joint Disorders
+M67379,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6738,727.1,Synovitis and tenosynovitis,Joint Disorders
+M6739,727.1,Synovitis and tenosynovitis,Joint Disorders
+M159,740.9,Osteoarthrosis NOS,Osteoarthrosis
+M17,740.9,Osteoarthrosis NOS,Osteoarthrosis
+M199,740.9,Osteoarthrosis NOS,Osteoarthrosis
+M1990,740.9,Osteoarthrosis NOS,Osteoarthrosis
+M150,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M150,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M151,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M151,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M152,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M152,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M1991,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M1991,740.2,"Osteoarthrosis, generalized",Osteoarthrosis
+M160,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M161,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1610,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1611,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1612,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M170,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M171,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1710,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1711,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1712,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M180,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M181,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1810,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1811,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1812,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M190,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1901,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19011,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19012,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19019,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1902,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19021,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19022,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19029,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1903,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19031,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19032,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19039,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1904,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19041,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19042,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19049,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M1907,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19071,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19072,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M19079,740.11,"Osteoarthrosis, localized, primary",Osteoarthrosis
+M162,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M163,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1630,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1631,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1632,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M164,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M165,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1650,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1651,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1652,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M166,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M167,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M172,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M173,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1730,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1731,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1732,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M174,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M175,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M182,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M183,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1830,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1831,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1832,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M184,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M185,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1850,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1851,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1852,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M191,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1911,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19111,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19112,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19119,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1912,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19121,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19122,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19129,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1913,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19131,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19132,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19139,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1914,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19141,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19142,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19149,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1917,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19171,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19172,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19179,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M192,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1921,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19211,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19212,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19219,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1922,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19221,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19222,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19229,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1923,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19231,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19232,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19239,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1924,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19241,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19242,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19249,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1927,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19271,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19272,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M19279,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1992,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+M1993,740.12,"Osteoarthrosis, localized, secondary",Osteoarthrosis
+J90,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J918,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J92,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J920,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J929,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J94,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J940,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J941,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J942,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J948,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+J949,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+R091,507,Pleurisy; pleural effusion,Pleurisy  Pleural Effusion
+M2572,726.1,Enthesopathy,Soft Tissue
+M25721,726.1,Enthesopathy,Soft Tissue
+M25722,726.1,Enthesopathy,Soft Tissue
+M25729,726.1,Enthesopathy,Soft Tissue
+M2573,726.1,Enthesopathy,Soft Tissue
+M25731,726.1,Enthesopathy,Soft Tissue
+M25732,726.1,Enthesopathy,Soft Tissue
+M25739,726.1,Enthesopathy,Soft Tissue
+M2574,726.1,Enthesopathy,Soft Tissue
+M25741,726.1,Enthesopathy,Soft Tissue
+M25742,726.1,Enthesopathy,Soft Tissue
+M25749,726.1,Enthesopathy,Soft Tissue
+M2575,726.1,Enthesopathy,Soft Tissue
+M25751,726.1,Enthesopathy,Soft Tissue
+M25752,726.1,Enthesopathy,Soft Tissue
+M25759,726.1,Enthesopathy,Soft Tissue
+M2576,726.1,Enthesopathy,Soft Tissue
+M25761,726.1,Enthesopathy,Soft Tissue
+M25762,726.1,Enthesopathy,Soft Tissue
+M25769,726.1,Enthesopathy,Soft Tissue
+M2577,726.1,Enthesopathy,Soft Tissue
+M25771,726.1,Enthesopathy,Soft Tissue
+M25772,726.1,Enthesopathy,Soft Tissue
+M25773,726.1,Enthesopathy,Soft Tissue
+M25774,726.1,Enthesopathy,Soft Tissue
+M25775,726.1,Enthesopathy,Soft Tissue
+M25776,726.1,Enthesopathy,Soft Tissue
+M701,726.1,Enthesopathy,Soft Tissue
+M7010,726.1,Enthesopathy,Soft Tissue
+M7011,726.1,Enthesopathy,Soft Tissue
+M7012,726.1,Enthesopathy,Soft Tissue
+M703,726.1,Enthesopathy,Soft Tissue
+M7030,726.1,Enthesopathy,Soft Tissue
+M705,726.1,Enthesopathy,Soft Tissue
+M7050,726.1,Enthesopathy,Soft Tissue
+M7051,726.1,Enthesopathy,Soft Tissue
+M7052,726.1,Enthesopathy,Soft Tissue
+M706,726.1,Enthesopathy,Soft Tissue
+M7060,726.1,Enthesopathy,Soft Tissue
+M7061,726.1,Enthesopathy,Soft Tissue
+M7062,726.1,Enthesopathy,Soft Tissue
+M707,726.1,Enthesopathy,Soft Tissue
+M7070,726.1,Enthesopathy,Soft Tissue
+M7071,726.1,Enthesopathy,Soft Tissue
+M7072,726.1,Enthesopathy,Soft Tissue
+M750,726.1,Enthesopathy,Soft Tissue
+M7500,726.1,Enthesopathy,Soft Tissue
+M7501,726.1,Enthesopathy,Soft Tissue
+M7502,726.1,Enthesopathy,Soft Tissue
+M751,726.1,Enthesopathy,Soft Tissue
+M752,726.1,Enthesopathy,Soft Tissue
+M760,726.1,Enthesopathy,Soft Tissue
+M7600,726.1,Enthesopathy,Soft Tissue
+M7601,726.1,Enthesopathy,Soft Tissue
+M7602,726.1,Enthesopathy,Soft Tissue
+M761,726.1,Enthesopathy,Soft Tissue
+M7610,726.1,Enthesopathy,Soft Tissue
+M7611,726.1,Enthesopathy,Soft Tissue
+M7612,726.1,Enthesopathy,Soft Tissue
+M762,726.1,Enthesopathy,Soft Tissue
+M7620,726.1,Enthesopathy,Soft Tissue
+M7621,726.1,Enthesopathy,Soft Tissue
+M7622,726.1,Enthesopathy,Soft Tissue
+M763,726.1,Enthesopathy,Soft Tissue
+M7630,726.1,Enthesopathy,Soft Tissue
+M7631,726.1,Enthesopathy,Soft Tissue
+M7632,726.1,Enthesopathy,Soft Tissue
+M765,726.1,Enthesopathy,Soft Tissue
+M7650,726.1,Enthesopathy,Soft Tissue
+M7651,726.1,Enthesopathy,Soft Tissue
+M7652,726.1,Enthesopathy,Soft Tissue
+M767,726.1,Enthesopathy,Soft Tissue
+M7670,726.1,Enthesopathy,Soft Tissue
+M7671,726.1,Enthesopathy,Soft Tissue
+M7672,726.1,Enthesopathy,Soft Tissue
+M76811,726.1,Enthesopathy,Soft Tissue
+M76812,726.1,Enthesopathy,Soft Tissue
+M76819,726.1,Enthesopathy,Soft Tissue
+M7682,726.1,Enthesopathy,Soft Tissue
+M76821,726.1,Enthesopathy,Soft Tissue
+M76822,726.1,Enthesopathy,Soft Tissue
+M76829,726.1,Enthesopathy,Soft Tissue
+M7689,726.1,Enthesopathy,Soft Tissue
+M76891,726.1,Enthesopathy,Soft Tissue
+M76892,726.1,Enthesopathy,Soft Tissue
+M76899,726.1,Enthesopathy,Soft Tissue
+M769,726.1,Enthesopathy,Soft Tissue
+M772,726.1,Enthesopathy,Soft Tissue
+M7720,726.1,Enthesopathy,Soft Tissue
+M7721,726.1,Enthesopathy,Soft Tissue
+M7722,726.1,Enthesopathy,Soft Tissue
+M774,726.1,Enthesopathy,Soft Tissue
+M7740,726.1,Enthesopathy,Soft Tissue
+M7741,726.1,Enthesopathy,Soft Tissue
+M7742,726.1,Enthesopathy,Soft Tissue
+M775,726.1,Enthesopathy,Soft Tissue
+M7750,726.1,Enthesopathy,Soft Tissue
+M7751,726.1,Enthesopathy,Soft Tissue
+M7752,726.1,Enthesopathy,Soft Tissue
+M778,726.1,Enthesopathy,Soft Tissue
+M779,726.1,Enthesopathy,Soft Tissue
+M708,729,Other disorders of soft tissues,Soft Tissue
+M7080,729,Other disorders of soft tissues,Soft Tissue
+M7081,729,Other disorders of soft tissues,Soft Tissue
+M70811,729,Other disorders of soft tissues,Soft Tissue
+M70812,729,Other disorders of soft tissues,Soft Tissue
+M70819,729,Other disorders of soft tissues,Soft Tissue
+M7082,729,Other disorders of soft tissues,Soft Tissue
+M70821,729,Other disorders of soft tissues,Soft Tissue
+M70822,729,Other disorders of soft tissues,Soft Tissue
+M70829,729,Other disorders of soft tissues,Soft Tissue
+M7083,729,Other disorders of soft tissues,Soft Tissue
+M70831,729,Other disorders of soft tissues,Soft Tissue
+M70832,729,Other disorders of soft tissues,Soft Tissue
+M70839,729,Other disorders of soft tissues,Soft Tissue
+M7084,729,Other disorders of soft tissues,Soft Tissue
+M70841,729,Other disorders of soft tissues,Soft Tissue
+M70842,729,Other disorders of soft tissues,Soft Tissue
+M70849,729,Other disorders of soft tissues,Soft Tissue
+M7085,729,Other disorders of soft tissues,Soft Tissue
+M70851,729,Other disorders of soft tissues,Soft Tissue
+M70852,729,Other disorders of soft tissues,Soft Tissue
+M70859,729,Other disorders of soft tissues,Soft Tissue
+M7086,729,Other disorders of soft tissues,Soft Tissue
+M70861,729,Other disorders of soft tissues,Soft Tissue
+M70862,729,Other disorders of soft tissues,Soft Tissue
+M70869,729,Other disorders of soft tissues,Soft Tissue
+M7087,729,Other disorders of soft tissues,Soft Tissue
+M70871,729,Other disorders of soft tissues,Soft Tissue
+M70872,729,Other disorders of soft tissues,Soft Tissue
+M70879,729,Other disorders of soft tissues,Soft Tissue
+M7088,729,Other disorders of soft tissues,Soft Tissue
+M7089,729,Other disorders of soft tissues,Soft Tissue
+M709,729,Other disorders of soft tissues,Soft Tissue
+M7090,729,Other disorders of soft tissues,Soft Tissue
+M7091,729,Other disorders of soft tissues,Soft Tissue
+M70911,729,Other disorders of soft tissues,Soft Tissue
+M70912,729,Other disorders of soft tissues,Soft Tissue
+M70919,729,Other disorders of soft tissues,Soft Tissue
+M7092,729,Other disorders of soft tissues,Soft Tissue
+M70921,729,Other disorders of soft tissues,Soft Tissue
+M70922,729,Other disorders of soft tissues,Soft Tissue
+M70929,729,Other disorders of soft tissues,Soft Tissue
+M7093,729,Other disorders of soft tissues,Soft Tissue
+M70931,729,Other disorders of soft tissues,Soft Tissue
+M70932,729,Other disorders of soft tissues,Soft Tissue
+M70939,729,Other disorders of soft tissues,Soft Tissue
+M7094,729,Other disorders of soft tissues,Soft Tissue
+M70941,729,Other disorders of soft tissues,Soft Tissue
+M70942,729,Other disorders of soft tissues,Soft Tissue
+M70949,729,Other disorders of soft tissues,Soft Tissue
+M7095,729,Other disorders of soft tissues,Soft Tissue
+M70951,729,Other disorders of soft tissues,Soft Tissue
+M70952,729,Other disorders of soft tissues,Soft Tissue
+M70959,729,Other disorders of soft tissues,Soft Tissue
+M7096,729,Other disorders of soft tissues,Soft Tissue
+M70961,729,Other disorders of soft tissues,Soft Tissue
+M70962,729,Other disorders of soft tissues,Soft Tissue
+M70969,729,Other disorders of soft tissues,Soft Tissue
+M7097,729,Other disorders of soft tissues,Soft Tissue
+M70971,729,Other disorders of soft tissues,Soft Tissue
+M70972,729,Other disorders of soft tissues,Soft Tissue
+M70979,729,Other disorders of soft tissues,Soft Tissue
+M7098,729,Other disorders of soft tissues,Soft Tissue
+M7099,729,Other disorders of soft tissues,Soft Tissue
+M7981,729,Other disorders of soft tissues,Soft Tissue
+M7989,729,Other disorders of soft tissues,Soft Tissue
+M799,729,Other disorders of soft tissues,Soft Tissue
+M2571,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M25711,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M25712,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M25719,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M6621,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M66211,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M66212,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M66219,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M6681,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M66811,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M66812,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M66819,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7510,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M75100,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M75101,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M75102,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7511,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M75110,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M75111,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M75112,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7512,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7530,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7531,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7532,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M754,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7540,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7541,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7542,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M755,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7550,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7551,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7552,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M758,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7580,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7581,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7582,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M759,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7590,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7591,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7592,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M770,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7700,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7701,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7702,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M771,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7710,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7711,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M7712,726,Peripheral enthesopathies and allied syndromes,Soft Tissue
+M662,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6620,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6622,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66221,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66222,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66229,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6623,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66231,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66232,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66239,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6624,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66241,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66242,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66249,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6625,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66251,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66252,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66259,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6626,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66261,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66262,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66269,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6627,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66271,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66272,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66279,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6628,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6629,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M663,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6630,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6631,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66311,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66312,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66319,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6632,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66321,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66322,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66329,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6633,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66331,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66332,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66339,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6634,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66341,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66342,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66349,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6635,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66351,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66352,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66359,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6636,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66361,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66362,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66369,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6637,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66371,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66372,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66379,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6638,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6639,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6680,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6682,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66821,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66822,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66829,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6683,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66831,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66832,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66839,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6684,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66841,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66842,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66849,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6685,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66851,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66852,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66859,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6686,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66861,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66862,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66869,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6687,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66871,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66872,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M66879,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6688,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M6689,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M669,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M751,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M75120,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M75121,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+M75122,727.6,"Rupture of tendon, nontraumatic",Soft Tissue
+S0340,840,Sprains and strains,Soft Tissue
+S0340XA,840,Sprains and strains,Soft Tissue
+S0340XD,840,Sprains and strains,Soft Tissue
+S0340XS,840,Sprains and strains,Soft Tissue
+S0341,840,Sprains and strains,Soft Tissue
+S0341XA,840,Sprains and strains,Soft Tissue
+S0341XD,840,Sprains and strains,Soft Tissue
+S0341XS,840,Sprains and strains,Soft Tissue
+S0342,840,Sprains and strains,Soft Tissue
+S0342XA,840,Sprains and strains,Soft Tissue
+S0342XD,840,Sprains and strains,Soft Tissue
+S0342XS,840,Sprains and strains,Soft Tissue
+S0343,840,Sprains and strains,Soft Tissue
+S0343XA,840,Sprains and strains,Soft Tissue
+S0343XD,840,Sprains and strains,Soft Tissue
+S0343XS,840,Sprains and strains,Soft Tissue
+S134,840,Sprains and strains,Soft Tissue
+S135,840,Sprains and strains,Soft Tissue
+S135XXA,840,Sprains and strains,Soft Tissue
+S135XXD,840,Sprains and strains,Soft Tissue
+S135XXS,840,Sprains and strains,Soft Tissue
+S161,840,Sprains and strains,Soft Tissue
+S161XXA,840,Sprains and strains,Soft Tissue
+S161XXD,840,Sprains and strains,Soft Tissue
+S161XXS,840,Sprains and strains,Soft Tissue
+S234,840,Sprains and strains,Soft Tissue
+S2341,840,Sprains and strains,Soft Tissue
+S2341XA,840,Sprains and strains,Soft Tissue
+S2341XD,840,Sprains and strains,Soft Tissue
+S2341XS,840,Sprains and strains,Soft Tissue
+S2342,840,Sprains and strains,Soft Tissue
+S23428,840,Sprains and strains,Soft Tissue
+S23428A,840,Sprains and strains,Soft Tissue
+S23428D,840,Sprains and strains,Soft Tissue
+S23428S,840,Sprains and strains,Soft Tissue
+S23429,840,Sprains and strains,Soft Tissue
+S23429A,840,Sprains and strains,Soft Tissue
+S23429D,840,Sprains and strains,Soft Tissue
+S23429S,840,Sprains and strains,Soft Tissue
+S238,840,Sprains and strains,Soft Tissue
+S238XXA,840,Sprains and strains,Soft Tissue
+S238XXD,840,Sprains and strains,Soft Tissue
+S238XXS,840,Sprains and strains,Soft Tissue
+S239,840,Sprains and strains,Soft Tissue
+S239XXA,840,Sprains and strains,Soft Tissue
+S239XXD,840,Sprains and strains,Soft Tissue
+S239XXS,840,Sprains and strains,Soft Tissue
+S338,840,Sprains and strains,Soft Tissue
+S338XXA,840,Sprains and strains,Soft Tissue
+S338XXD,840,Sprains and strains,Soft Tissue
+S338XXS,840,Sprains and strains,Soft Tissue
+S339,840,Sprains and strains,Soft Tissue
+S339XXA,840,Sprains and strains,Soft Tissue
+S339XXD,840,Sprains and strains,Soft Tissue
+S339XXS,840,Sprains and strains,Soft Tissue
+S4601,840,Sprains and strains,Soft Tissue
+S46011,840,Sprains and strains,Soft Tissue
+S46011A,840,Sprains and strains,Soft Tissue
+S46011D,840,Sprains and strains,Soft Tissue
+S46011S,840,Sprains and strains,Soft Tissue
+S46012,840,Sprains and strains,Soft Tissue
+S46012A,840,Sprains and strains,Soft Tissue
+S46012D,840,Sprains and strains,Soft Tissue
+S46012S,840,Sprains and strains,Soft Tissue
+S46019,840,Sprains and strains,Soft Tissue
+S46019A,840,Sprains and strains,Soft Tissue
+S46019D,840,Sprains and strains,Soft Tissue
+S46019S,840,Sprains and strains,Soft Tissue
+S4611,840,Sprains and strains,Soft Tissue
+S46111,840,Sprains and strains,Soft Tissue
+S46111A,840,Sprains and strains,Soft Tissue
+S46111D,840,Sprains and strains,Soft Tissue
+S46111S,840,Sprains and strains,Soft Tissue
+S46112,840,Sprains and strains,Soft Tissue
+S46112A,840,Sprains and strains,Soft Tissue
+S46112D,840,Sprains and strains,Soft Tissue
+S46112S,840,Sprains and strains,Soft Tissue
+S46119,840,Sprains and strains,Soft Tissue
+S46119A,840,Sprains and strains,Soft Tissue
+S46119D,840,Sprains and strains,Soft Tissue
+S46119S,840,Sprains and strains,Soft Tissue
+S4621,840,Sprains and strains,Soft Tissue
+S46211,840,Sprains and strains,Soft Tissue
+S46211A,840,Sprains and strains,Soft Tissue
+S46211D,840,Sprains and strains,Soft Tissue
+S46211S,840,Sprains and strains,Soft Tissue
+S46212,840,Sprains and strains,Soft Tissue
+S46212A,840,Sprains and strains,Soft Tissue
+S46212D,840,Sprains and strains,Soft Tissue
+S46212S,840,Sprains and strains,Soft Tissue
+S46219,840,Sprains and strains,Soft Tissue
+S46219A,840,Sprains and strains,Soft Tissue
+S46219D,840,Sprains and strains,Soft Tissue
+S46219S,840,Sprains and strains,Soft Tissue
+S4631,840,Sprains and strains,Soft Tissue
+S46311,840,Sprains and strains,Soft Tissue
+S46311A,840,Sprains and strains,Soft Tissue
+S46311D,840,Sprains and strains,Soft Tissue
+S46311S,840,Sprains and strains,Soft Tissue
+S46312,840,Sprains and strains,Soft Tissue
+S46312A,840,Sprains and strains,Soft Tissue
+S46312D,840,Sprains and strains,Soft Tissue
+S46312S,840,Sprains and strains,Soft Tissue
+S46319,840,Sprains and strains,Soft Tissue
+S46319A,840,Sprains and strains,Soft Tissue
+S46319D,840,Sprains and strains,Soft Tissue
+S46319S,840,Sprains and strains,Soft Tissue
+S4681,840,Sprains and strains,Soft Tissue
+S46811,840,Sprains and strains,Soft Tissue
+S46811A,840,Sprains and strains,Soft Tissue
+S46811D,840,Sprains and strains,Soft Tissue
+S46811S,840,Sprains and strains,Soft Tissue
+S46812,840,Sprains and strains,Soft Tissue
+S46812A,840,Sprains and strains,Soft Tissue
+S46812D,840,Sprains and strains,Soft Tissue
+S46812S,840,Sprains and strains,Soft Tissue
+S46819,840,Sprains and strains,Soft Tissue
+S46819A,840,Sprains and strains,Soft Tissue
+S46819D,840,Sprains and strains,Soft Tissue
+S46819S,840,Sprains and strains,Soft Tissue
+S4691,840,Sprains and strains,Soft Tissue
+S46911,840,Sprains and strains,Soft Tissue
+S46911A,840,Sprains and strains,Soft Tissue
+S46911D,840,Sprains and strains,Soft Tissue
+S46911S,840,Sprains and strains,Soft Tissue
+S46912,840,Sprains and strains,Soft Tissue
+S46912A,840,Sprains and strains,Soft Tissue
+S46912D,840,Sprains and strains,Soft Tissue
+S46912S,840,Sprains and strains,Soft Tissue
+S46919,840,Sprains and strains,Soft Tissue
+S46919A,840,Sprains and strains,Soft Tissue
+S46919D,840,Sprains and strains,Soft Tissue
+S46919S,840,Sprains and strains,Soft Tissue
+S534,840,Sprains and strains,Soft Tissue
+S5340,840,Sprains and strains,Soft Tissue
+S53401,840,Sprains and strains,Soft Tissue
+S53401A,840,Sprains and strains,Soft Tissue
+S53401D,840,Sprains and strains,Soft Tissue
+S53401S,840,Sprains and strains,Soft Tissue
+S53402,840,Sprains and strains,Soft Tissue
+S53402A,840,Sprains and strains,Soft Tissue
+S53402D,840,Sprains and strains,Soft Tissue
+S53402S,840,Sprains and strains,Soft Tissue
+S53409,840,Sprains and strains,Soft Tissue
+S53409A,840,Sprains and strains,Soft Tissue
+S53409D,840,Sprains and strains,Soft Tissue
+S53409S,840,Sprains and strains,Soft Tissue
+S5349,840,Sprains and strains,Soft Tissue
+S53491,840,Sprains and strains,Soft Tissue
+S53491A,840,Sprains and strains,Soft Tissue
+S53491D,840,Sprains and strains,Soft Tissue
+S53491S,840,Sprains and strains,Soft Tissue
+S53492,840,Sprains and strains,Soft Tissue
+S53492A,840,Sprains and strains,Soft Tissue
+S53492D,840,Sprains and strains,Soft Tissue
+S53492S,840,Sprains and strains,Soft Tissue
+S53499,840,Sprains and strains,Soft Tissue
+S53499A,840,Sprains and strains,Soft Tissue
+S53499D,840,Sprains and strains,Soft Tissue
+S53499S,840,Sprains and strains,Soft Tissue
+S5601,840,Sprains and strains,Soft Tissue
+S56011,840,Sprains and strains,Soft Tissue
+S56011A,840,Sprains and strains,Soft Tissue
+S56011D,840,Sprains and strains,Soft Tissue
+S56011S,840,Sprains and strains,Soft Tissue
+S56012,840,Sprains and strains,Soft Tissue
+S56012A,840,Sprains and strains,Soft Tissue
+S56012D,840,Sprains and strains,Soft Tissue
+S56012S,840,Sprains and strains,Soft Tissue
+S56019,840,Sprains and strains,Soft Tissue
+S56019A,840,Sprains and strains,Soft Tissue
+S56019D,840,Sprains and strains,Soft Tissue
+S56019S,840,Sprains and strains,Soft Tissue
+S5611,840,Sprains and strains,Soft Tissue
+S56111,840,Sprains and strains,Soft Tissue
+S56111A,840,Sprains and strains,Soft Tissue
+S56111D,840,Sprains and strains,Soft Tissue
+S56111S,840,Sprains and strains,Soft Tissue
+S56112,840,Sprains and strains,Soft Tissue
+S56112A,840,Sprains and strains,Soft Tissue
+S56112D,840,Sprains and strains,Soft Tissue
+S56112S,840,Sprains and strains,Soft Tissue
+S56113,840,Sprains and strains,Soft Tissue
+S56113A,840,Sprains and strains,Soft Tissue
+S56113D,840,Sprains and strains,Soft Tissue
+S56113S,840,Sprains and strains,Soft Tissue
+S56114,840,Sprains and strains,Soft Tissue
+S56114A,840,Sprains and strains,Soft Tissue
+S56114D,840,Sprains and strains,Soft Tissue
+S56114S,840,Sprains and strains,Soft Tissue
+S56115,840,Sprains and strains,Soft Tissue
+S56115A,840,Sprains and strains,Soft Tissue
+S56115D,840,Sprains and strains,Soft Tissue
+S56115S,840,Sprains and strains,Soft Tissue
+S56116,840,Sprains and strains,Soft Tissue
+S56116A,840,Sprains and strains,Soft Tissue
+S56116D,840,Sprains and strains,Soft Tissue
+S56116S,840,Sprains and strains,Soft Tissue
+S56117,840,Sprains and strains,Soft Tissue
+S56117A,840,Sprains and strains,Soft Tissue
+S56117D,840,Sprains and strains,Soft Tissue
+S56117S,840,Sprains and strains,Soft Tissue
+S56118,840,Sprains and strains,Soft Tissue
+S56118A,840,Sprains and strains,Soft Tissue
+S56118D,840,Sprains and strains,Soft Tissue
+S56118S,840,Sprains and strains,Soft Tissue
+S56119,840,Sprains and strains,Soft Tissue
+S56119A,840,Sprains and strains,Soft Tissue
+S56119D,840,Sprains and strains,Soft Tissue
+S56119S,840,Sprains and strains,Soft Tissue
+S5621,840,Sprains and strains,Soft Tissue
+S56211,840,Sprains and strains,Soft Tissue
+S56211A,840,Sprains and strains,Soft Tissue
+S56211D,840,Sprains and strains,Soft Tissue
+S56211S,840,Sprains and strains,Soft Tissue
+S56212,840,Sprains and strains,Soft Tissue
+S56212A,840,Sprains and strains,Soft Tissue
+S56212D,840,Sprains and strains,Soft Tissue
+S56212S,840,Sprains and strains,Soft Tissue
+S56219,840,Sprains and strains,Soft Tissue
+S56219A,840,Sprains and strains,Soft Tissue
+S56219D,840,Sprains and strains,Soft Tissue
+S56219S,840,Sprains and strains,Soft Tissue
+S5631,840,Sprains and strains,Soft Tissue
+S56311,840,Sprains and strains,Soft Tissue
+S56311A,840,Sprains and strains,Soft Tissue
+S56311D,840,Sprains and strains,Soft Tissue
+S56311S,840,Sprains and strains,Soft Tissue
+S56312,840,Sprains and strains,Soft Tissue
+S56312A,840,Sprains and strains,Soft Tissue
+S56312D,840,Sprains and strains,Soft Tissue
+S56312S,840,Sprains and strains,Soft Tissue
+S56319,840,Sprains and strains,Soft Tissue
+S56319A,840,Sprains and strains,Soft Tissue
+S56319D,840,Sprains and strains,Soft Tissue
+S56319S,840,Sprains and strains,Soft Tissue
+S5641,840,Sprains and strains,Soft Tissue
+S56411,840,Sprains and strains,Soft Tissue
+S56411A,840,Sprains and strains,Soft Tissue
+S56411D,840,Sprains and strains,Soft Tissue
+S56411S,840,Sprains and strains,Soft Tissue
+S56412,840,Sprains and strains,Soft Tissue
+S56412A,840,Sprains and strains,Soft Tissue
+S56412D,840,Sprains and strains,Soft Tissue
+S56412S,840,Sprains and strains,Soft Tissue
+S56413,840,Sprains and strains,Soft Tissue
+S56413A,840,Sprains and strains,Soft Tissue
+S56413D,840,Sprains and strains,Soft Tissue
+S56413S,840,Sprains and strains,Soft Tissue
+S56414,840,Sprains and strains,Soft Tissue
+S56414A,840,Sprains and strains,Soft Tissue
+S56414D,840,Sprains and strains,Soft Tissue
+S56414S,840,Sprains and strains,Soft Tissue
+S56415,840,Sprains and strains,Soft Tissue
+S56415A,840,Sprains and strains,Soft Tissue
+S56415D,840,Sprains and strains,Soft Tissue
+S56415S,840,Sprains and strains,Soft Tissue
+S56416,840,Sprains and strains,Soft Tissue
+S56416A,840,Sprains and strains,Soft Tissue
+S56416D,840,Sprains and strains,Soft Tissue
+S56416S,840,Sprains and strains,Soft Tissue
+S56417,840,Sprains and strains,Soft Tissue
+S56417A,840,Sprains and strains,Soft Tissue
+S56417D,840,Sprains and strains,Soft Tissue
+S56417S,840,Sprains and strains,Soft Tissue
+S56418,840,Sprains and strains,Soft Tissue
+S56418A,840,Sprains and strains,Soft Tissue
+S56418D,840,Sprains and strains,Soft Tissue
+S56418S,840,Sprains and strains,Soft Tissue
+S56419,840,Sprains and strains,Soft Tissue
+S56419A,840,Sprains and strains,Soft Tissue
+S56419D,840,Sprains and strains,Soft Tissue
+S56419S,840,Sprains and strains,Soft Tissue
+S5651,840,Sprains and strains,Soft Tissue
+S56511,840,Sprains and strains,Soft Tissue
+S56511A,840,Sprains and strains,Soft Tissue
+S56511D,840,Sprains and strains,Soft Tissue
+S56511S,840,Sprains and strains,Soft Tissue
+S56512,840,Sprains and strains,Soft Tissue
+S56512A,840,Sprains and strains,Soft Tissue
+S56512D,840,Sprains and strains,Soft Tissue
+S56512S,840,Sprains and strains,Soft Tissue
+S56519,840,Sprains and strains,Soft Tissue
+S56519A,840,Sprains and strains,Soft Tissue
+S56519D,840,Sprains and strains,Soft Tissue
+S56519S,840,Sprains and strains,Soft Tissue
+S5681,840,Sprains and strains,Soft Tissue
+S56811,840,Sprains and strains,Soft Tissue
+S56811A,840,Sprains and strains,Soft Tissue
+S56811D,840,Sprains and strains,Soft Tissue
+S56811S,840,Sprains and strains,Soft Tissue
+S56812,840,Sprains and strains,Soft Tissue
+S56812A,840,Sprains and strains,Soft Tissue
+S56812D,840,Sprains and strains,Soft Tissue
+S56812S,840,Sprains and strains,Soft Tissue
+S56819,840,Sprains and strains,Soft Tissue
+S56819A,840,Sprains and strains,Soft Tissue
+S56819D,840,Sprains and strains,Soft Tissue
+S56819S,840,Sprains and strains,Soft Tissue
+S5691,840,Sprains and strains,Soft Tissue
+S56911,840,Sprains and strains,Soft Tissue
+S56911A,840,Sprains and strains,Soft Tissue
+S56911D,840,Sprains and strains,Soft Tissue
+S56911S,840,Sprains and strains,Soft Tissue
+S56912,840,Sprains and strains,Soft Tissue
+S56912A,840,Sprains and strains,Soft Tissue
+S56912D,840,Sprains and strains,Soft Tissue
+S56912S,840,Sprains and strains,Soft Tissue
+S56919,840,Sprains and strains,Soft Tissue
+S56919A,840,Sprains and strains,Soft Tissue
+S56919D,840,Sprains and strains,Soft Tissue
+S56919S,840,Sprains and strains,Soft Tissue
+S635,840,Sprains and strains,Soft Tissue
+S6350,840,Sprains and strains,Soft Tissue
+S63501,840,Sprains and strains,Soft Tissue
+S63501A,840,Sprains and strains,Soft Tissue
+S63501D,840,Sprains and strains,Soft Tissue
+S63501S,840,Sprains and strains,Soft Tissue
+S63502,840,Sprains and strains,Soft Tissue
+S63502A,840,Sprains and strains,Soft Tissue
+S63502D,840,Sprains and strains,Soft Tissue
+S63502S,840,Sprains and strains,Soft Tissue
+S63509,840,Sprains and strains,Soft Tissue
+S63509A,840,Sprains and strains,Soft Tissue
+S63509D,840,Sprains and strains,Soft Tissue
+S63509S,840,Sprains and strains,Soft Tissue
+S6359,840,Sprains and strains,Soft Tissue
+S63591,840,Sprains and strains,Soft Tissue
+S63591A,840,Sprains and strains,Soft Tissue
+S63591D,840,Sprains and strains,Soft Tissue
+S63591S,840,Sprains and strains,Soft Tissue
+S63592,840,Sprains and strains,Soft Tissue
+S63592A,840,Sprains and strains,Soft Tissue
+S63592D,840,Sprains and strains,Soft Tissue
+S63592S,840,Sprains and strains,Soft Tissue
+S63599,840,Sprains and strains,Soft Tissue
+S63599A,840,Sprains and strains,Soft Tissue
+S63599D,840,Sprains and strains,Soft Tissue
+S63599S,840,Sprains and strains,Soft Tissue
+S636,840,Sprains and strains,Soft Tissue
+S6360,840,Sprains and strains,Soft Tissue
+S63601,840,Sprains and strains,Soft Tissue
+S63601A,840,Sprains and strains,Soft Tissue
+S63601D,840,Sprains and strains,Soft Tissue
+S63601S,840,Sprains and strains,Soft Tissue
+S63602,840,Sprains and strains,Soft Tissue
+S63602A,840,Sprains and strains,Soft Tissue
+S63602D,840,Sprains and strains,Soft Tissue
+S63602S,840,Sprains and strains,Soft Tissue
+S63609,840,Sprains and strains,Soft Tissue
+S63609A,840,Sprains and strains,Soft Tissue
+S63609D,840,Sprains and strains,Soft Tissue
+S63609S,840,Sprains and strains,Soft Tissue
+S6361,840,Sprains and strains,Soft Tissue
+S63610,840,Sprains and strains,Soft Tissue
+S63610A,840,Sprains and strains,Soft Tissue
+S63610D,840,Sprains and strains,Soft Tissue
+S63610S,840,Sprains and strains,Soft Tissue
+S63611,840,Sprains and strains,Soft Tissue
+S63611A,840,Sprains and strains,Soft Tissue
+S63611D,840,Sprains and strains,Soft Tissue
+S63611S,840,Sprains and strains,Soft Tissue
+S63612,840,Sprains and strains,Soft Tissue
+S63612A,840,Sprains and strains,Soft Tissue
+S63612D,840,Sprains and strains,Soft Tissue
+S63612S,840,Sprains and strains,Soft Tissue
+S63613,840,Sprains and strains,Soft Tissue
+S63613A,840,Sprains and strains,Soft Tissue
+S63613D,840,Sprains and strains,Soft Tissue
+S63613S,840,Sprains and strains,Soft Tissue
+S63614,840,Sprains and strains,Soft Tissue
+S63614A,840,Sprains and strains,Soft Tissue
+S63614D,840,Sprains and strains,Soft Tissue
+S63614S,840,Sprains and strains,Soft Tissue
+S63615,840,Sprains and strains,Soft Tissue
+S63615A,840,Sprains and strains,Soft Tissue
+S63615D,840,Sprains and strains,Soft Tissue
+S63615S,840,Sprains and strains,Soft Tissue
+S63616,840,Sprains and strains,Soft Tissue
+S63616A,840,Sprains and strains,Soft Tissue
+S63616D,840,Sprains and strains,Soft Tissue
+S63616S,840,Sprains and strains,Soft Tissue
+S63617,840,Sprains and strains,Soft Tissue
+S63617A,840,Sprains and strains,Soft Tissue
+S63617D,840,Sprains and strains,Soft Tissue
+S63617S,840,Sprains and strains,Soft Tissue
+S63618,840,Sprains and strains,Soft Tissue
+S63618A,840,Sprains and strains,Soft Tissue
+S63618D,840,Sprains and strains,Soft Tissue
+S63618S,840,Sprains and strains,Soft Tissue
+S63619,840,Sprains and strains,Soft Tissue
+S63619A,840,Sprains and strains,Soft Tissue
+S63619D,840,Sprains and strains,Soft Tissue
+S63619S,840,Sprains and strains,Soft Tissue
+S6368,840,Sprains and strains,Soft Tissue
+S63681,840,Sprains and strains,Soft Tissue
+S63681A,840,Sprains and strains,Soft Tissue
+S63681D,840,Sprains and strains,Soft Tissue
+S63681S,840,Sprains and strains,Soft Tissue
+S63682,840,Sprains and strains,Soft Tissue
+S63682A,840,Sprains and strains,Soft Tissue
+S63682D,840,Sprains and strains,Soft Tissue
+S63682S,840,Sprains and strains,Soft Tissue
+S63689,840,Sprains and strains,Soft Tissue
+S63689A,840,Sprains and strains,Soft Tissue
+S63689D,840,Sprains and strains,Soft Tissue
+S63689S,840,Sprains and strains,Soft Tissue
+S6369,840,Sprains and strains,Soft Tissue
+S63690,840,Sprains and strains,Soft Tissue
+S63690A,840,Sprains and strains,Soft Tissue
+S63690D,840,Sprains and strains,Soft Tissue
+S63690S,840,Sprains and strains,Soft Tissue
+S63691,840,Sprains and strains,Soft Tissue
+S63691A,840,Sprains and strains,Soft Tissue
+S63691D,840,Sprains and strains,Soft Tissue
+S63691S,840,Sprains and strains,Soft Tissue
+S63692,840,Sprains and strains,Soft Tissue
+S63692A,840,Sprains and strains,Soft Tissue
+S63692D,840,Sprains and strains,Soft Tissue
+S63692S,840,Sprains and strains,Soft Tissue
+S63693,840,Sprains and strains,Soft Tissue
+S63693A,840,Sprains and strains,Soft Tissue
+S63693D,840,Sprains and strains,Soft Tissue
+S63693S,840,Sprains and strains,Soft Tissue
+S63694,840,Sprains and strains,Soft Tissue
+S63694A,840,Sprains and strains,Soft Tissue
+S63694D,840,Sprains and strains,Soft Tissue
+S63694S,840,Sprains and strains,Soft Tissue
+S63695,840,Sprains and strains,Soft Tissue
+S63695A,840,Sprains and strains,Soft Tissue
+S63695D,840,Sprains and strains,Soft Tissue
+S63695S,840,Sprains and strains,Soft Tissue
+S63696,840,Sprains and strains,Soft Tissue
+S63696A,840,Sprains and strains,Soft Tissue
+S63696D,840,Sprains and strains,Soft Tissue
+S63696S,840,Sprains and strains,Soft Tissue
+S63697,840,Sprains and strains,Soft Tissue
+S63697A,840,Sprains and strains,Soft Tissue
+S63697D,840,Sprains and strains,Soft Tissue
+S63697S,840,Sprains and strains,Soft Tissue
+S63698,840,Sprains and strains,Soft Tissue
+S63698A,840,Sprains and strains,Soft Tissue
+S63698D,840,Sprains and strains,Soft Tissue
+S63698S,840,Sprains and strains,Soft Tissue
+S63699,840,Sprains and strains,Soft Tissue
+S63699A,840,Sprains and strains,Soft Tissue
+S63699D,840,Sprains and strains,Soft Tissue
+S63699S,840,Sprains and strains,Soft Tissue
+S638,840,Sprains and strains,Soft Tissue
+S638X,840,Sprains and strains,Soft Tissue
+S638X1,840,Sprains and strains,Soft Tissue
+S638X1A,840,Sprains and strains,Soft Tissue
+S638X1D,840,Sprains and strains,Soft Tissue
+S638X1S,840,Sprains and strains,Soft Tissue
+S638X2,840,Sprains and strains,Soft Tissue
+S638X2A,840,Sprains and strains,Soft Tissue
+S638X2D,840,Sprains and strains,Soft Tissue
+S638X2S,840,Sprains and strains,Soft Tissue
+S638X9,840,Sprains and strains,Soft Tissue
+S638X9A,840,Sprains and strains,Soft Tissue
+S638X9D,840,Sprains and strains,Soft Tissue
+S638X9S,840,Sprains and strains,Soft Tissue
+S639,840,Sprains and strains,Soft Tissue
+S6390,840,Sprains and strains,Soft Tissue
+S6390XA,840,Sprains and strains,Soft Tissue
+S6390XD,840,Sprains and strains,Soft Tissue
+S6390XS,840,Sprains and strains,Soft Tissue
+S6391,840,Sprains and strains,Soft Tissue
+S6391XA,840,Sprains and strains,Soft Tissue
+S6391XD,840,Sprains and strains,Soft Tissue
+S6391XS,840,Sprains and strains,Soft Tissue
+S6392,840,Sprains and strains,Soft Tissue
+S6392XA,840,Sprains and strains,Soft Tissue
+S6392XD,840,Sprains and strains,Soft Tissue
+S6392XS,840,Sprains and strains,Soft Tissue
+S6601,840,Sprains and strains,Soft Tissue
+S66011,840,Sprains and strains,Soft Tissue
+S66011A,840,Sprains and strains,Soft Tissue
+S66011D,840,Sprains and strains,Soft Tissue
+S66011S,840,Sprains and strains,Soft Tissue
+S66012,840,Sprains and strains,Soft Tissue
+S66012A,840,Sprains and strains,Soft Tissue
+S66012D,840,Sprains and strains,Soft Tissue
+S66012S,840,Sprains and strains,Soft Tissue
+S66019,840,Sprains and strains,Soft Tissue
+S66019A,840,Sprains and strains,Soft Tissue
+S66019D,840,Sprains and strains,Soft Tissue
+S66019S,840,Sprains and strains,Soft Tissue
+S6611,840,Sprains and strains,Soft Tissue
+S66110,840,Sprains and strains,Soft Tissue
+S66110A,840,Sprains and strains,Soft Tissue
+S66110D,840,Sprains and strains,Soft Tissue
+S66110S,840,Sprains and strains,Soft Tissue
+S66111,840,Sprains and strains,Soft Tissue
+S66111A,840,Sprains and strains,Soft Tissue
+S66111D,840,Sprains and strains,Soft Tissue
+S66111S,840,Sprains and strains,Soft Tissue
+S66112,840,Sprains and strains,Soft Tissue
+S66112A,840,Sprains and strains,Soft Tissue
+S66112D,840,Sprains and strains,Soft Tissue
+S66112S,840,Sprains and strains,Soft Tissue
+S66113,840,Sprains and strains,Soft Tissue
+S66113A,840,Sprains and strains,Soft Tissue
+S66113D,840,Sprains and strains,Soft Tissue
+S66113S,840,Sprains and strains,Soft Tissue
+S66114,840,Sprains and strains,Soft Tissue
+S66114A,840,Sprains and strains,Soft Tissue
+S66114D,840,Sprains and strains,Soft Tissue
+S66114S,840,Sprains and strains,Soft Tissue
+S66115,840,Sprains and strains,Soft Tissue
+S66115A,840,Sprains and strains,Soft Tissue
+S66115D,840,Sprains and strains,Soft Tissue
+S66115S,840,Sprains and strains,Soft Tissue
+S66116,840,Sprains and strains,Soft Tissue
+S66116A,840,Sprains and strains,Soft Tissue
+S66116D,840,Sprains and strains,Soft Tissue
+S66116S,840,Sprains and strains,Soft Tissue
+S66117,840,Sprains and strains,Soft Tissue
+S66117A,840,Sprains and strains,Soft Tissue
+S66117D,840,Sprains and strains,Soft Tissue
+S66117S,840,Sprains and strains,Soft Tissue
+S66118,840,Sprains and strains,Soft Tissue
+S66118A,840,Sprains and strains,Soft Tissue
+S66118D,840,Sprains and strains,Soft Tissue
+S66118S,840,Sprains and strains,Soft Tissue
+S66119,840,Sprains and strains,Soft Tissue
+S66119A,840,Sprains and strains,Soft Tissue
+S66119D,840,Sprains and strains,Soft Tissue
+S66119S,840,Sprains and strains,Soft Tissue
+S6621,840,Sprains and strains,Soft Tissue
+S66211,840,Sprains and strains,Soft Tissue
+S66211A,840,Sprains and strains,Soft Tissue
+S66211D,840,Sprains and strains,Soft Tissue
+S66211S,840,Sprains and strains,Soft Tissue
+S66212,840,Sprains and strains,Soft Tissue
+S66212A,840,Sprains and strains,Soft Tissue
+S66212D,840,Sprains and strains,Soft Tissue
+S66212S,840,Sprains and strains,Soft Tissue
+S66219,840,Sprains and strains,Soft Tissue
+S66219A,840,Sprains and strains,Soft Tissue
+S66219D,840,Sprains and strains,Soft Tissue
+S66219S,840,Sprains and strains,Soft Tissue
+S6631,840,Sprains and strains,Soft Tissue
+S66310,840,Sprains and strains,Soft Tissue
+S66310A,840,Sprains and strains,Soft Tissue
+S66310D,840,Sprains and strains,Soft Tissue
+S66310S,840,Sprains and strains,Soft Tissue
+S66311,840,Sprains and strains,Soft Tissue
+S66311A,840,Sprains and strains,Soft Tissue
+S66311D,840,Sprains and strains,Soft Tissue
+S66311S,840,Sprains and strains,Soft Tissue
+S66312,840,Sprains and strains,Soft Tissue
+S66312A,840,Sprains and strains,Soft Tissue
+S66312D,840,Sprains and strains,Soft Tissue
+S66312S,840,Sprains and strains,Soft Tissue
+S66313,840,Sprains and strains,Soft Tissue
+S66313A,840,Sprains and strains,Soft Tissue
+S66313D,840,Sprains and strains,Soft Tissue
+S66313S,840,Sprains and strains,Soft Tissue
+S66314,840,Sprains and strains,Soft Tissue
+S66314A,840,Sprains and strains,Soft Tissue
+S66314D,840,Sprains and strains,Soft Tissue
+S66314S,840,Sprains and strains,Soft Tissue
+S66315,840,Sprains and strains,Soft Tissue
+S66315A,840,Sprains and strains,Soft Tissue
+S66315D,840,Sprains and strains,Soft Tissue
+S66315S,840,Sprains and strains,Soft Tissue
+S66316,840,Sprains and strains,Soft Tissue
+S66316A,840,Sprains and strains,Soft Tissue
+S66316D,840,Sprains and strains,Soft Tissue
+S66316S,840,Sprains and strains,Soft Tissue
+S66317,840,Sprains and strains,Soft Tissue
+S66317A,840,Sprains and strains,Soft Tissue
+S66317D,840,Sprains and strains,Soft Tissue
+S66317S,840,Sprains and strains,Soft Tissue
+S66318,840,Sprains and strains,Soft Tissue
+S66318A,840,Sprains and strains,Soft Tissue
+S66318D,840,Sprains and strains,Soft Tissue
+S66318S,840,Sprains and strains,Soft Tissue
+S66319,840,Sprains and strains,Soft Tissue
+S66319A,840,Sprains and strains,Soft Tissue
+S66319D,840,Sprains and strains,Soft Tissue
+S66319S,840,Sprains and strains,Soft Tissue
+S6641,840,Sprains and strains,Soft Tissue
+S66411,840,Sprains and strains,Soft Tissue
+S66411A,840,Sprains and strains,Soft Tissue
+S66411D,840,Sprains and strains,Soft Tissue
+S66411S,840,Sprains and strains,Soft Tissue
+S66412,840,Sprains and strains,Soft Tissue
+S66412A,840,Sprains and strains,Soft Tissue
+S66412D,840,Sprains and strains,Soft Tissue
+S66412S,840,Sprains and strains,Soft Tissue
+S66419,840,Sprains and strains,Soft Tissue
+S66419A,840,Sprains and strains,Soft Tissue
+S66419D,840,Sprains and strains,Soft Tissue
+S66419S,840,Sprains and strains,Soft Tissue
+S6651,840,Sprains and strains,Soft Tissue
+S66510,840,Sprains and strains,Soft Tissue
+S66510A,840,Sprains and strains,Soft Tissue
+S66510D,840,Sprains and strains,Soft Tissue
+S66510S,840,Sprains and strains,Soft Tissue
+S66511,840,Sprains and strains,Soft Tissue
+S66511A,840,Sprains and strains,Soft Tissue
+S66511D,840,Sprains and strains,Soft Tissue
+S66511S,840,Sprains and strains,Soft Tissue
+S66512,840,Sprains and strains,Soft Tissue
+S66512A,840,Sprains and strains,Soft Tissue
+S66512D,840,Sprains and strains,Soft Tissue
+S66512S,840,Sprains and strains,Soft Tissue
+S66513,840,Sprains and strains,Soft Tissue
+S66513A,840,Sprains and strains,Soft Tissue
+S66513D,840,Sprains and strains,Soft Tissue
+S66513S,840,Sprains and strains,Soft Tissue
+S66514,840,Sprains and strains,Soft Tissue
+S66514A,840,Sprains and strains,Soft Tissue
+S66514D,840,Sprains and strains,Soft Tissue
+S66514S,840,Sprains and strains,Soft Tissue
+S66515,840,Sprains and strains,Soft Tissue
+S66515A,840,Sprains and strains,Soft Tissue
+S66515D,840,Sprains and strains,Soft Tissue
+S66515S,840,Sprains and strains,Soft Tissue
+S66516,840,Sprains and strains,Soft Tissue
+S66516A,840,Sprains and strains,Soft Tissue
+S66516D,840,Sprains and strains,Soft Tissue
+S66516S,840,Sprains and strains,Soft Tissue
+S66517,840,Sprains and strains,Soft Tissue
+S66517A,840,Sprains and strains,Soft Tissue
+S66517D,840,Sprains and strains,Soft Tissue
+S66517S,840,Sprains and strains,Soft Tissue
+S66518,840,Sprains and strains,Soft Tissue
+S66518A,840,Sprains and strains,Soft Tissue
+S66518D,840,Sprains and strains,Soft Tissue
+S66518S,840,Sprains and strains,Soft Tissue
+S66519,840,Sprains and strains,Soft Tissue
+S66519A,840,Sprains and strains,Soft Tissue
+S66519D,840,Sprains and strains,Soft Tissue
+S66519S,840,Sprains and strains,Soft Tissue
+S6681,840,Sprains and strains,Soft Tissue
+S66811,840,Sprains and strains,Soft Tissue
+S66811A,840,Sprains and strains,Soft Tissue
+S66811D,840,Sprains and strains,Soft Tissue
+S66811S,840,Sprains and strains,Soft Tissue
+S66812,840,Sprains and strains,Soft Tissue
+S66812A,840,Sprains and strains,Soft Tissue
+S66812D,840,Sprains and strains,Soft Tissue
+S66812S,840,Sprains and strains,Soft Tissue
+S66819,840,Sprains and strains,Soft Tissue
+S66819A,840,Sprains and strains,Soft Tissue
+S66819D,840,Sprains and strains,Soft Tissue
+S66819S,840,Sprains and strains,Soft Tissue
+S6691,840,Sprains and strains,Soft Tissue
+S66911,840,Sprains and strains,Soft Tissue
+S66911A,840,Sprains and strains,Soft Tissue
+S66911D,840,Sprains and strains,Soft Tissue
+S66911S,840,Sprains and strains,Soft Tissue
+S66912,840,Sprains and strains,Soft Tissue
+S66912A,840,Sprains and strains,Soft Tissue
+S66912D,840,Sprains and strains,Soft Tissue
+S66912S,840,Sprains and strains,Soft Tissue
+S66919,840,Sprains and strains,Soft Tissue
+S66919A,840,Sprains and strains,Soft Tissue
+S66919D,840,Sprains and strains,Soft Tissue
+S66919S,840,Sprains and strains,Soft Tissue
+S731,840,Sprains and strains,Soft Tissue
+S7310,840,Sprains and strains,Soft Tissue
+S73101,840,Sprains and strains,Soft Tissue
+S73101A,840,Sprains and strains,Soft Tissue
+S73101D,840,Sprains and strains,Soft Tissue
+S73101S,840,Sprains and strains,Soft Tissue
+S73102,840,Sprains and strains,Soft Tissue
+S73102A,840,Sprains and strains,Soft Tissue
+S73102D,840,Sprains and strains,Soft Tissue
+S73102S,840,Sprains and strains,Soft Tissue
+S73109,840,Sprains and strains,Soft Tissue
+S73109A,840,Sprains and strains,Soft Tissue
+S73109D,840,Sprains and strains,Soft Tissue
+S73109S,840,Sprains and strains,Soft Tissue
+S7319,840,Sprains and strains,Soft Tissue
+S73191,840,Sprains and strains,Soft Tissue
+S73191A,840,Sprains and strains,Soft Tissue
+S73191D,840,Sprains and strains,Soft Tissue
+S73191S,840,Sprains and strains,Soft Tissue
+S73192,840,Sprains and strains,Soft Tissue
+S73192A,840,Sprains and strains,Soft Tissue
+S73192D,840,Sprains and strains,Soft Tissue
+S73192S,840,Sprains and strains,Soft Tissue
+S73199,840,Sprains and strains,Soft Tissue
+S73199A,840,Sprains and strains,Soft Tissue
+S73199D,840,Sprains and strains,Soft Tissue
+S73199S,840,Sprains and strains,Soft Tissue
+S7601,840,Sprains and strains,Soft Tissue
+S76011,840,Sprains and strains,Soft Tissue
+S76011A,840,Sprains and strains,Soft Tissue
+S76011D,840,Sprains and strains,Soft Tissue
+S76011S,840,Sprains and strains,Soft Tissue
+S76012,840,Sprains and strains,Soft Tissue
+S76012A,840,Sprains and strains,Soft Tissue
+S76012D,840,Sprains and strains,Soft Tissue
+S76012S,840,Sprains and strains,Soft Tissue
+S76019,840,Sprains and strains,Soft Tissue
+S76019A,840,Sprains and strains,Soft Tissue
+S76019D,840,Sprains and strains,Soft Tissue
+S76019S,840,Sprains and strains,Soft Tissue
+S7611,840,Sprains and strains,Soft Tissue
+S76111,840,Sprains and strains,Soft Tissue
+S76111A,840,Sprains and strains,Soft Tissue
+S76111D,840,Sprains and strains,Soft Tissue
+S76111S,840,Sprains and strains,Soft Tissue
+S76112,840,Sprains and strains,Soft Tissue
+S76112A,840,Sprains and strains,Soft Tissue
+S76112D,840,Sprains and strains,Soft Tissue
+S76112S,840,Sprains and strains,Soft Tissue
+S76119,840,Sprains and strains,Soft Tissue
+S76119A,840,Sprains and strains,Soft Tissue
+S76119D,840,Sprains and strains,Soft Tissue
+S76119S,840,Sprains and strains,Soft Tissue
+S7621,840,Sprains and strains,Soft Tissue
+S76211,840,Sprains and strains,Soft Tissue
+S76211A,840,Sprains and strains,Soft Tissue
+S76211D,840,Sprains and strains,Soft Tissue
+S76211S,840,Sprains and strains,Soft Tissue
+S76212,840,Sprains and strains,Soft Tissue
+S76212A,840,Sprains and strains,Soft Tissue
+S76212D,840,Sprains and strains,Soft Tissue
+S76212S,840,Sprains and strains,Soft Tissue
+S76219,840,Sprains and strains,Soft Tissue
+S76219A,840,Sprains and strains,Soft Tissue
+S76219D,840,Sprains and strains,Soft Tissue
+S76219S,840,Sprains and strains,Soft Tissue
+S7631,840,Sprains and strains,Soft Tissue
+S76311,840,Sprains and strains,Soft Tissue
+S76311A,840,Sprains and strains,Soft Tissue
+S76311D,840,Sprains and strains,Soft Tissue
+S76311S,840,Sprains and strains,Soft Tissue
+S76312,840,Sprains and strains,Soft Tissue
+S76312A,840,Sprains and strains,Soft Tissue
+S76312D,840,Sprains and strains,Soft Tissue
+S76312S,840,Sprains and strains,Soft Tissue
+S76319,840,Sprains and strains,Soft Tissue
+S76319A,840,Sprains and strains,Soft Tissue
+S76319D,840,Sprains and strains,Soft Tissue
+S76319S,840,Sprains and strains,Soft Tissue
+S7681,840,Sprains and strains,Soft Tissue
+S76811,840,Sprains and strains,Soft Tissue
+S76811A,840,Sprains and strains,Soft Tissue
+S76811D,840,Sprains and strains,Soft Tissue
+S76811S,840,Sprains and strains,Soft Tissue
+S76812,840,Sprains and strains,Soft Tissue
+S76812A,840,Sprains and strains,Soft Tissue
+S76812D,840,Sprains and strains,Soft Tissue
+S76812S,840,Sprains and strains,Soft Tissue
+S76819,840,Sprains and strains,Soft Tissue
+S76819A,840,Sprains and strains,Soft Tissue
+S76819D,840,Sprains and strains,Soft Tissue
+S76819S,840,Sprains and strains,Soft Tissue
+S7691,840,Sprains and strains,Soft Tissue
+S76911,840,Sprains and strains,Soft Tissue
+S76911A,840,Sprains and strains,Soft Tissue
+S76911D,840,Sprains and strains,Soft Tissue
+S76911S,840,Sprains and strains,Soft Tissue
+S76912,840,Sprains and strains,Soft Tissue
+S76912A,840,Sprains and strains,Soft Tissue
+S76912D,840,Sprains and strains,Soft Tissue
+S76912S,840,Sprains and strains,Soft Tissue
+S76919,840,Sprains and strains,Soft Tissue
+S76919A,840,Sprains and strains,Soft Tissue
+S76919D,840,Sprains and strains,Soft Tissue
+S76919S,840,Sprains and strains,Soft Tissue
+S832,840,Sprains and strains,Soft Tissue
+S8320,840,Sprains and strains,Soft Tissue
+S83200,840,Sprains and strains,Soft Tissue
+S83200A,840,Sprains and strains,Soft Tissue
+S83200D,840,Sprains and strains,Soft Tissue
+S83200S,840,Sprains and strains,Soft Tissue
+S83201,840,Sprains and strains,Soft Tissue
+S83201A,840,Sprains and strains,Soft Tissue
+S83201D,840,Sprains and strains,Soft Tissue
+S83201S,840,Sprains and strains,Soft Tissue
+S83202,840,Sprains and strains,Soft Tissue
+S83202A,840,Sprains and strains,Soft Tissue
+S83202D,840,Sprains and strains,Soft Tissue
+S83202S,840,Sprains and strains,Soft Tissue
+S83203,840,Sprains and strains,Soft Tissue
+S83203A,840,Sprains and strains,Soft Tissue
+S83203D,840,Sprains and strains,Soft Tissue
+S83203S,840,Sprains and strains,Soft Tissue
+S83204,840,Sprains and strains,Soft Tissue
+S83204A,840,Sprains and strains,Soft Tissue
+S83204D,840,Sprains and strains,Soft Tissue
+S83204S,840,Sprains and strains,Soft Tissue
+S83205,840,Sprains and strains,Soft Tissue
+S83205A,840,Sprains and strains,Soft Tissue
+S83205D,840,Sprains and strains,Soft Tissue
+S83205S,840,Sprains and strains,Soft Tissue
+S83206,840,Sprains and strains,Soft Tissue
+S83206A,840,Sprains and strains,Soft Tissue
+S83206D,840,Sprains and strains,Soft Tissue
+S83206S,840,Sprains and strains,Soft Tissue
+S83207,840,Sprains and strains,Soft Tissue
+S83207A,840,Sprains and strains,Soft Tissue
+S83207D,840,Sprains and strains,Soft Tissue
+S83207S,840,Sprains and strains,Soft Tissue
+S83209,840,Sprains and strains,Soft Tissue
+S83209A,840,Sprains and strains,Soft Tissue
+S83209D,840,Sprains and strains,Soft Tissue
+S83209S,840,Sprains and strains,Soft Tissue
+S8321,840,Sprains and strains,Soft Tissue
+S83211,840,Sprains and strains,Soft Tissue
+S83211A,840,Sprains and strains,Soft Tissue
+S83211D,840,Sprains and strains,Soft Tissue
+S83211S,840,Sprains and strains,Soft Tissue
+S83212,840,Sprains and strains,Soft Tissue
+S83212A,840,Sprains and strains,Soft Tissue
+S83212D,840,Sprains and strains,Soft Tissue
+S83212S,840,Sprains and strains,Soft Tissue
+S83219,840,Sprains and strains,Soft Tissue
+S83219A,840,Sprains and strains,Soft Tissue
+S83219D,840,Sprains and strains,Soft Tissue
+S83219S,840,Sprains and strains,Soft Tissue
+S8322,840,Sprains and strains,Soft Tissue
+S83221,840,Sprains and strains,Soft Tissue
+S83221A,840,Sprains and strains,Soft Tissue
+S83221D,840,Sprains and strains,Soft Tissue
+S83221S,840,Sprains and strains,Soft Tissue
+S83222,840,Sprains and strains,Soft Tissue
+S83222A,840,Sprains and strains,Soft Tissue
+S83222D,840,Sprains and strains,Soft Tissue
+S83222S,840,Sprains and strains,Soft Tissue
+S83229,840,Sprains and strains,Soft Tissue
+S83229A,840,Sprains and strains,Soft Tissue
+S83229D,840,Sprains and strains,Soft Tissue
+S83229S,840,Sprains and strains,Soft Tissue
+S8323,840,Sprains and strains,Soft Tissue
+S83231,840,Sprains and strains,Soft Tissue
+S83231A,840,Sprains and strains,Soft Tissue
+S83231D,840,Sprains and strains,Soft Tissue
+S83231S,840,Sprains and strains,Soft Tissue
+S83232,840,Sprains and strains,Soft Tissue
+S83232A,840,Sprains and strains,Soft Tissue
+S83232D,840,Sprains and strains,Soft Tissue
+S83232S,840,Sprains and strains,Soft Tissue
+S83239,840,Sprains and strains,Soft Tissue
+S83239A,840,Sprains and strains,Soft Tissue
+S83239D,840,Sprains and strains,Soft Tissue
+S83239S,840,Sprains and strains,Soft Tissue
+S8324,840,Sprains and strains,Soft Tissue
+S83241,840,Sprains and strains,Soft Tissue
+S83241A,840,Sprains and strains,Soft Tissue
+S83241D,840,Sprains and strains,Soft Tissue
+S83241S,840,Sprains and strains,Soft Tissue
+S83242,840,Sprains and strains,Soft Tissue
+S83242A,840,Sprains and strains,Soft Tissue
+S83242D,840,Sprains and strains,Soft Tissue
+S83242S,840,Sprains and strains,Soft Tissue
+S83249,840,Sprains and strains,Soft Tissue
+S83249A,840,Sprains and strains,Soft Tissue
+S83249D,840,Sprains and strains,Soft Tissue
+S83249S,840,Sprains and strains,Soft Tissue
+S8325,840,Sprains and strains,Soft Tissue
+S83251,840,Sprains and strains,Soft Tissue
+S83251A,840,Sprains and strains,Soft Tissue
+S83251D,840,Sprains and strains,Soft Tissue
+S83251S,840,Sprains and strains,Soft Tissue
+S83252,840,Sprains and strains,Soft Tissue
+S83252A,840,Sprains and strains,Soft Tissue
+S83252D,840,Sprains and strains,Soft Tissue
+S83252S,840,Sprains and strains,Soft Tissue
+S83259,840,Sprains and strains,Soft Tissue
+S83259A,840,Sprains and strains,Soft Tissue
+S83259D,840,Sprains and strains,Soft Tissue
+S83259S,840,Sprains and strains,Soft Tissue
+S8326,840,Sprains and strains,Soft Tissue
+S83261,840,Sprains and strains,Soft Tissue
+S83261A,840,Sprains and strains,Soft Tissue
+S83261D,840,Sprains and strains,Soft Tissue
+S83261S,840,Sprains and strains,Soft Tissue
+S83262,840,Sprains and strains,Soft Tissue
+S83262A,840,Sprains and strains,Soft Tissue
+S83262D,840,Sprains and strains,Soft Tissue
+S83262S,840,Sprains and strains,Soft Tissue
+S83269,840,Sprains and strains,Soft Tissue
+S83269A,840,Sprains and strains,Soft Tissue
+S83269D,840,Sprains and strains,Soft Tissue
+S83269S,840,Sprains and strains,Soft Tissue
+S8327,840,Sprains and strains,Soft Tissue
+S83271,840,Sprains and strains,Soft Tissue
+S83271A,840,Sprains and strains,Soft Tissue
+S83271D,840,Sprains and strains,Soft Tissue
+S83271S,840,Sprains and strains,Soft Tissue
+S83272,840,Sprains and strains,Soft Tissue
+S83272A,840,Sprains and strains,Soft Tissue
+S83272D,840,Sprains and strains,Soft Tissue
+S83272S,840,Sprains and strains,Soft Tissue
+S83279,840,Sprains and strains,Soft Tissue
+S83279A,840,Sprains and strains,Soft Tissue
+S83279D,840,Sprains and strains,Soft Tissue
+S83279S,840,Sprains and strains,Soft Tissue
+S8328,840,Sprains and strains,Soft Tissue
+S83281,840,Sprains and strains,Soft Tissue
+S83281A,840,Sprains and strains,Soft Tissue
+S83281D,840,Sprains and strains,Soft Tissue
+S83281S,840,Sprains and strains,Soft Tissue
+S83282,840,Sprains and strains,Soft Tissue
+S83282A,840,Sprains and strains,Soft Tissue
+S83282D,840,Sprains and strains,Soft Tissue
+S83282S,840,Sprains and strains,Soft Tissue
+S83289,840,Sprains and strains,Soft Tissue
+S83289A,840,Sprains and strains,Soft Tissue
+S83289D,840,Sprains and strains,Soft Tissue
+S83289S,840,Sprains and strains,Soft Tissue
+S833,840,Sprains and strains,Soft Tissue
+S8330,840,Sprains and strains,Soft Tissue
+S8330XA,840,Sprains and strains,Soft Tissue
+S8330XD,840,Sprains and strains,Soft Tissue
+S8330XS,840,Sprains and strains,Soft Tissue
+S8331,840,Sprains and strains,Soft Tissue
+S8331XA,840,Sprains and strains,Soft Tissue
+S8331XD,840,Sprains and strains,Soft Tissue
+S8331XS,840,Sprains and strains,Soft Tissue
+S8332,840,Sprains and strains,Soft Tissue
+S8332XA,840,Sprains and strains,Soft Tissue
+S8332XD,840,Sprains and strains,Soft Tissue
+S8332XS,840,Sprains and strains,Soft Tissue
+S838,840,Sprains and strains,Soft Tissue
+S838X,840,Sprains and strains,Soft Tissue
+S838X1,840,Sprains and strains,Soft Tissue
+S838X1A,840,Sprains and strains,Soft Tissue
+S838X1D,840,Sprains and strains,Soft Tissue
+S838X1S,840,Sprains and strains,Soft Tissue
+S838X2,840,Sprains and strains,Soft Tissue
+S838X2A,840,Sprains and strains,Soft Tissue
+S838X2D,840,Sprains and strains,Soft Tissue
+S838X2S,840,Sprains and strains,Soft Tissue
+S838X9,840,Sprains and strains,Soft Tissue
+S838X9A,840,Sprains and strains,Soft Tissue
+S838X9D,840,Sprains and strains,Soft Tissue
+S838X9S,840,Sprains and strains,Soft Tissue
+S839,840,Sprains and strains,Soft Tissue
+S8390,840,Sprains and strains,Soft Tissue
+S8390XA,840,Sprains and strains,Soft Tissue
+S8390XD,840,Sprains and strains,Soft Tissue
+S8390XS,840,Sprains and strains,Soft Tissue
+S8391,840,Sprains and strains,Soft Tissue
+S8391XA,840,Sprains and strains,Soft Tissue
+S8391XD,840,Sprains and strains,Soft Tissue
+S8391XS,840,Sprains and strains,Soft Tissue
+S8392,840,Sprains and strains,Soft Tissue
+S8392XA,840,Sprains and strains,Soft Tissue
+S8392XD,840,Sprains and strains,Soft Tissue
+S8392XS,840,Sprains and strains,Soft Tissue
+S8601,840,Sprains and strains,Soft Tissue
+S86011,840,Sprains and strains,Soft Tissue
+S86011A,840,Sprains and strains,Soft Tissue
+S86011D,840,Sprains and strains,Soft Tissue
+S86011S,840,Sprains and strains,Soft Tissue
+S86012,840,Sprains and strains,Soft Tissue
+S86012A,840,Sprains and strains,Soft Tissue
+S86012D,840,Sprains and strains,Soft Tissue
+S86012S,840,Sprains and strains,Soft Tissue
+S86019,840,Sprains and strains,Soft Tissue
+S86019A,840,Sprains and strains,Soft Tissue
+S86019D,840,Sprains and strains,Soft Tissue
+S86019S,840,Sprains and strains,Soft Tissue
+S8611,840,Sprains and strains,Soft Tissue
+S86111,840,Sprains and strains,Soft Tissue
+S86111A,840,Sprains and strains,Soft Tissue
+S86111D,840,Sprains and strains,Soft Tissue
+S86111S,840,Sprains and strains,Soft Tissue
+S86112,840,Sprains and strains,Soft Tissue
+S86112A,840,Sprains and strains,Soft Tissue
+S86112D,840,Sprains and strains,Soft Tissue
+S86112S,840,Sprains and strains,Soft Tissue
+S86119,840,Sprains and strains,Soft Tissue
+S86119A,840,Sprains and strains,Soft Tissue
+S86119D,840,Sprains and strains,Soft Tissue
+S86119S,840,Sprains and strains,Soft Tissue
+S8621,840,Sprains and strains,Soft Tissue
+S86211,840,Sprains and strains,Soft Tissue
+S86211A,840,Sprains and strains,Soft Tissue
+S86211D,840,Sprains and strains,Soft Tissue
+S86211S,840,Sprains and strains,Soft Tissue
+S86212,840,Sprains and strains,Soft Tissue
+S86212A,840,Sprains and strains,Soft Tissue
+S86212D,840,Sprains and strains,Soft Tissue
+S86212S,840,Sprains and strains,Soft Tissue
+S86219,840,Sprains and strains,Soft Tissue
+S86219A,840,Sprains and strains,Soft Tissue
+S86219D,840,Sprains and strains,Soft Tissue
+S86219S,840,Sprains and strains,Soft Tissue
+S8631,840,Sprains and strains,Soft Tissue
+S86311,840,Sprains and strains,Soft Tissue
+S86311A,840,Sprains and strains,Soft Tissue
+S86311D,840,Sprains and strains,Soft Tissue
+S86311S,840,Sprains and strains,Soft Tissue
+S86312,840,Sprains and strains,Soft Tissue
+S86312A,840,Sprains and strains,Soft Tissue
+S86312D,840,Sprains and strains,Soft Tissue
+S86312S,840,Sprains and strains,Soft Tissue
+S86319,840,Sprains and strains,Soft Tissue
+S86319A,840,Sprains and strains,Soft Tissue
+S86319D,840,Sprains and strains,Soft Tissue
+S86319S,840,Sprains and strains,Soft Tissue
+S8681,840,Sprains and strains,Soft Tissue
+S86811,840,Sprains and strains,Soft Tissue
+S86811A,840,Sprains and strains,Soft Tissue
+S86811D,840,Sprains and strains,Soft Tissue
+S86811S,840,Sprains and strains,Soft Tissue
+S86812,840,Sprains and strains,Soft Tissue
+S86812A,840,Sprains and strains,Soft Tissue
+S86812D,840,Sprains and strains,Soft Tissue
+S86812S,840,Sprains and strains,Soft Tissue
+S86819,840,Sprains and strains,Soft Tissue
+S86819A,840,Sprains and strains,Soft Tissue
+S86819D,840,Sprains and strains,Soft Tissue
+S86819S,840,Sprains and strains,Soft Tissue
+S8691,840,Sprains and strains,Soft Tissue
+S86911,840,Sprains and strains,Soft Tissue
+S86911A,840,Sprains and strains,Soft Tissue
+S86911D,840,Sprains and strains,Soft Tissue
+S86911S,840,Sprains and strains,Soft Tissue
+S86912,840,Sprains and strains,Soft Tissue
+S86912A,840,Sprains and strains,Soft Tissue
+S86912D,840,Sprains and strains,Soft Tissue
+S86912S,840,Sprains and strains,Soft Tissue
+S86919,840,Sprains and strains,Soft Tissue
+S86919A,840,Sprains and strains,Soft Tissue
+S86919D,840,Sprains and strains,Soft Tissue
+S86919S,840,Sprains and strains,Soft Tissue
+S934,840,Sprains and strains,Soft Tissue
+S935,840,Sprains and strains,Soft Tissue
+S9350,840,Sprains and strains,Soft Tissue
+S93501,840,Sprains and strains,Soft Tissue
+S93501A,840,Sprains and strains,Soft Tissue
+S93501D,840,Sprains and strains,Soft Tissue
+S93501S,840,Sprains and strains,Soft Tissue
+S93502,840,Sprains and strains,Soft Tissue
+S93502A,840,Sprains and strains,Soft Tissue
+S93502D,840,Sprains and strains,Soft Tissue
+S93502S,840,Sprains and strains,Soft Tissue
+S93503,840,Sprains and strains,Soft Tissue
+S93503A,840,Sprains and strains,Soft Tissue
+S93503D,840,Sprains and strains,Soft Tissue
+S93503S,840,Sprains and strains,Soft Tissue
+S93504,840,Sprains and strains,Soft Tissue
+S93504A,840,Sprains and strains,Soft Tissue
+S93504D,840,Sprains and strains,Soft Tissue
+S93504S,840,Sprains and strains,Soft Tissue
+S93505,840,Sprains and strains,Soft Tissue
+S93505A,840,Sprains and strains,Soft Tissue
+S93505D,840,Sprains and strains,Soft Tissue
+S93505S,840,Sprains and strains,Soft Tissue
+S93506,840,Sprains and strains,Soft Tissue
+S93506A,840,Sprains and strains,Soft Tissue
+S93506D,840,Sprains and strains,Soft Tissue
+S93506S,840,Sprains and strains,Soft Tissue
+S93509,840,Sprains and strains,Soft Tissue
+S93509A,840,Sprains and strains,Soft Tissue
+S93509D,840,Sprains and strains,Soft Tissue
+S93509S,840,Sprains and strains,Soft Tissue
+S936,840,Sprains and strains,Soft Tissue
+S9360,840,Sprains and strains,Soft Tissue
+S93601,840,Sprains and strains,Soft Tissue
+S93601A,840,Sprains and strains,Soft Tissue
+S93601D,840,Sprains and strains,Soft Tissue
+S93601S,840,Sprains and strains,Soft Tissue
+S93602,840,Sprains and strains,Soft Tissue
+S93602A,840,Sprains and strains,Soft Tissue
+S93602D,840,Sprains and strains,Soft Tissue
+S93602S,840,Sprains and strains,Soft Tissue
+S93609,840,Sprains and strains,Soft Tissue
+S93609A,840,Sprains and strains,Soft Tissue
+S93609D,840,Sprains and strains,Soft Tissue
+S93609S,840,Sprains and strains,Soft Tissue
+S9369,840,Sprains and strains,Soft Tissue
+S93691,840,Sprains and strains,Soft Tissue
+S93691A,840,Sprains and strains,Soft Tissue
+S93691D,840,Sprains and strains,Soft Tissue
+S93691S,840,Sprains and strains,Soft Tissue
+S93692,840,Sprains and strains,Soft Tissue
+S93692A,840,Sprains and strains,Soft Tissue
+S93692D,840,Sprains and strains,Soft Tissue
+S93692S,840,Sprains and strains,Soft Tissue
+S93699,840,Sprains and strains,Soft Tissue
+S93699A,840,Sprains and strains,Soft Tissue
+S93699D,840,Sprains and strains,Soft Tissue
+S93699S,840,Sprains and strains,Soft Tissue
+S9601,840,Sprains and strains,Soft Tissue
+S96011,840,Sprains and strains,Soft Tissue
+S96011A,840,Sprains and strains,Soft Tissue
+S96011D,840,Sprains and strains,Soft Tissue
+S96011S,840,Sprains and strains,Soft Tissue
+S96012,840,Sprains and strains,Soft Tissue
+S96012A,840,Sprains and strains,Soft Tissue
+S96012D,840,Sprains and strains,Soft Tissue
+S96012S,840,Sprains and strains,Soft Tissue
+S96019,840,Sprains and strains,Soft Tissue
+S96019A,840,Sprains and strains,Soft Tissue
+S96019D,840,Sprains and strains,Soft Tissue
+S96019S,840,Sprains and strains,Soft Tissue
+S9611,840,Sprains and strains,Soft Tissue
+S96111,840,Sprains and strains,Soft Tissue
+S96111A,840,Sprains and strains,Soft Tissue
+S96111D,840,Sprains and strains,Soft Tissue
+S96111S,840,Sprains and strains,Soft Tissue
+S96112,840,Sprains and strains,Soft Tissue
+S96112A,840,Sprains and strains,Soft Tissue
+S96112D,840,Sprains and strains,Soft Tissue
+S96112S,840,Sprains and strains,Soft Tissue
+S96119,840,Sprains and strains,Soft Tissue
+S96119A,840,Sprains and strains,Soft Tissue
+S96119D,840,Sprains and strains,Soft Tissue
+S96119S,840,Sprains and strains,Soft Tissue
+S9621,840,Sprains and strains,Soft Tissue
+S96211,840,Sprains and strains,Soft Tissue
+S96211A,840,Sprains and strains,Soft Tissue
+S96211D,840,Sprains and strains,Soft Tissue
+S96211S,840,Sprains and strains,Soft Tissue
+S96212,840,Sprains and strains,Soft Tissue
+S96212A,840,Sprains and strains,Soft Tissue
+S96212D,840,Sprains and strains,Soft Tissue
+S96212S,840,Sprains and strains,Soft Tissue
+S96219,840,Sprains and strains,Soft Tissue
+S96219A,840,Sprains and strains,Soft Tissue
+S96219D,840,Sprains and strains,Soft Tissue
+S96219S,840,Sprains and strains,Soft Tissue
+S9681,840,Sprains and strains,Soft Tissue
+S96811,840,Sprains and strains,Soft Tissue
+S96811A,840,Sprains and strains,Soft Tissue
+S96811D,840,Sprains and strains,Soft Tissue
+S96811S,840,Sprains and strains,Soft Tissue
+S96812,840,Sprains and strains,Soft Tissue
+S96812A,840,Sprains and strains,Soft Tissue
+S96812D,840,Sprains and strains,Soft Tissue
+S96812S,840,Sprains and strains,Soft Tissue
+S96819,840,Sprains and strains,Soft Tissue
+S96819A,840,Sprains and strains,Soft Tissue
+S96819D,840,Sprains and strains,Soft Tissue
+S96819S,840,Sprains and strains,Soft Tissue
+S9691,840,Sprains and strains,Soft Tissue
+S96911,840,Sprains and strains,Soft Tissue
+S96911A,840,Sprains and strains,Soft Tissue
+S96911D,840,Sprains and strains,Soft Tissue
+S96911S,840,Sprains and strains,Soft Tissue
+S96912,840,Sprains and strains,Soft Tissue
+S96912A,840,Sprains and strains,Soft Tissue
+S96912D,840,Sprains and strains,Soft Tissue
+S96912S,840,Sprains and strains,Soft Tissue
+S96919,840,Sprains and strains,Soft Tissue
+S96919A,840,Sprains and strains,Soft Tissue
+S96919D,840,Sprains and strains,Soft Tissue
+S96919S,840,Sprains and strains,Soft Tissue
+I503,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+I5030,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+I5031,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+I5032,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+I5033,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+4283,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+42830,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+42831,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+42832,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+42833,428.4,Heart failure with preserved EF [Diastolic heart failure],Heart Failure With Preserved Ef [Diastolic Heart Failure]
+I502,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5020,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5021,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5022,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5023,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I504,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5040,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5041,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5042,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+I5043,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+4282,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42820,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42821,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42822,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42823,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+4284,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42840,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42841,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42842,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
+42843,428.3,Heart failure with reduced EF [Systolic or combined heart failure],Heart Failure With Reduced Ef [Systolic Or Combined Heart Failure]
