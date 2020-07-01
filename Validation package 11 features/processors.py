@@ -98,7 +98,6 @@ def preprocess(df,icd_map_df,ft_list_df):
 		df_wo_na = df.dropna()
 		return df_wo_na
 	df_cln = mis_val(df)
-	
 	## Checking for ICD code and retaing only ICD9 and ICD10 codes
 	def icd_fix(icd_version):
 		conditions =  (icd_version.str.contains('10'))| (icd_version == '2'),(icd_version.str.contains('9'))| (icd_version == '1')
@@ -393,6 +392,7 @@ def prob_adjustment(df,demographics_file,prob_adjst_file):
 	output_df = output_df.merge(prob_adjst_file, on = ['age','sex'], how = 'left')
 	output_df['adjusted_probability'] = output_df['multiplier']*output_df['probability_of_value_1']
 	output_df['suspicion_index'] = output_df['probability_of_value_1']/output_df['probability_of_value_0']
+	output_df['type'] = np.where(output_df['cohort_f']== 1,np.where(output_df['predicted_value']==1,"True Positive","False Negative"),np.where(output_df['predicted_value']==1,"False Positive","True Negative"))
 	output_df = output_df.drop(['age_sex_wt_count','wt_posterior_age_sex','hf_posterior_age_sex','age_sex_hf_count','multiplier','cohort_f'],axis =1)
 	return output_df
 	

@@ -1,13 +1,4 @@
 codes,type,version_type,short_desc,major,sub_chapter
-I5040,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I502,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I5022,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I5020,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I5042,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I5041,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I5023,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I5021,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
-I5043,ICD10,2,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure,heart failure with reduced ef systolic or combined heart failure
 G5601,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
 G5603,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
 G5600,ICD10,2,carpal tunnel,carpal tunnel,carpal tunnel
@@ -39,7 +30,6 @@ I440,ICD10,2,conduction disorders or heart block,conduction disorders or heart b
 I454,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
 I445,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
 I4510,ICD10,2,conduction disorders or heart block,conduction disorders or heart block,conduction disorders or heart block
-D472,ICD10,2,paraproteinemia,paraproteinemia,paraproteinemia
 I483,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
 I4892,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
 I481,ICD10,2,atrial fibrillation or flutter,atrial fibrillation or flutter,atrial fibrillation or flutter
@@ -133,89 +123,3 @@ M66829,ICD10,2,rupture of tendon nontraumatic,rupture of tendon nontraumatic,rup
 M66311,ICD10,2,rupture of tendon nontraumatic,rupture of tendon nontraumatic,rupture of tendon nontraumatic
 M75121,ICD10,2,rupture of tendon nontraumatic,rupture of tendon nontraumatic,rupture of tendon nontraumatic
 M6688,ICD10,2,rupture of tendon nontraumatic,rupture of tendon nontraumatic,rupture of tendon nontraumatic
-H26492,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H59022,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H26499,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H59029,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H268,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H26491,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2640,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H26493,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2620,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H269,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H527,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H526,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43812,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43821,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43391,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43811,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43312,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43319,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43313,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43393,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43819,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43392,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43823,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43813,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4303,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4323,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4321,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H43399,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4389,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4313,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4311,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4312,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40003,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4041X0,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4089,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4032X0,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40001,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4032X1,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40029,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40053,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40051,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4030X0,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4060X0,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4050X0,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4043X2,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40059,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4062X4,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40049,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4051X3,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4062X0,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4041X1,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40041,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40009,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4040X0,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H409,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4053X1,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H40002,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H4041X4,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25013,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25041,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25019,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2513,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2520,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25093,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25031,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25811,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25091,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25012,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25011,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25812,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2512,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H259,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2522,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25043,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25099,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2511,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25042,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25813,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2521,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2589,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H2510,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25092,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25032,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25049,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-H25819,ICD10,2,occular eye disorders,occular eye disorders,occular eye disorders
-I429,ICD10,2,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies,primary intrinsic cardiomyopathies

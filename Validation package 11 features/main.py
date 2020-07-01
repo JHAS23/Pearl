@@ -43,7 +43,8 @@ flags = calc.Flags(input_df)
 ## Checking the sanity of the input data wrt HF and WT patients
 final_input_df = pr.Cleaning_Fetch_Data_Functions.input_check(input_df)
 
-#final_input_df = final_input_df.merge(input_files.icd_map_df['codes'], on = 'codes', how = 'inner')
+icd_codes = final_input_df.merge(input_files.icd_map_df['codes'], on = 'codes', how = 'inner')
+final_input_df = final_input_df.merge(icd_codes['patient_id'],on = 'patient_id', how = 'inner')
 
 ## Create Prediction Cohorts
 df_1_1,df_1_9,df_1_19,df_hered_1_1,df_hered_1_9,df_hered_1_19,df_hered_incl_E851_1_1,df_hered_incl_E851_1_9,df_hered_incl_E851_1_19 = pr.create_prediction_cohorts(final_input_df)
@@ -106,8 +107,6 @@ if run_wt_1_9:
 	prediction_results_df_1_9 = calc.predictions(input_files.model_file,final_df_1_9)
 	final_dataset_1_9 = res.Datasets.tag_patients(df_1_9,prediction_results_df_1_9,diagnosis_count,flags)
 	model_metrics_df_1_9 = calc.custom_model_metrics(final_dataset_1_9,final_dataset_1_9['cohort_f'])
-
-##wt df_1_19
 
 if run_wt_1_19:
 	prediction_results_df_1_19 = calc.predictions(input_files.model_file,final_df_1_19)
