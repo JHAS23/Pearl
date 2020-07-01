@@ -111,7 +111,6 @@ def preprocess(df,icd_map_df,ft_list_df):
 	df_cln['type_fix'] = icd_fix(df_cln[vers_type])
 	
 	df_map = pd.merge(df_cln,icd_map_df,left_on=["type_fix","codes"],right_on=["type","codes"] ,how = 'left')
-	df_map.to_csv('test.csv')
 	df_map_cln = mis_val(df_map)
 	keys = ['short_desc','major','sub_chapter']
 	df_feature = df_map_cln.melt(id_vars= ptid,value_vars=keys,var_name= 'source',value_name='feature') #different syntax in lower versions
@@ -120,18 +119,19 @@ def preprocess(df,icd_map_df,ft_list_df):
 	df_feature_cols = df_feature_fitler[[ptid,'Feature']].copy()
 	df_feature_cols['presence_flag'] = '1'
 	df_ft_pivot = df_feature_cols.pivot_table(index=ptid, columns='Feature', values='presence_flag', aggfunc=np.max,dropna = False,fill_value = '0')
-	df_pivot_no_leaks = df_ft_pivot.drop(potential_target_leaks, axis = 1) 
-	return df_pivot_no_leaks, df_ft_pivot
+	#df_pivot_no_leaks = df_ft_pivot.drop(potential_target_leaks, axis = 1) 
+	return df_ft_pivot
 	
 	
 	## Function to mask patient ID's
 def mask_patient_ids(df):
-	#df['new_patient_id'] = df.reset_index().index
+	df = pd.DataFrame(df['patient_id'].drop_duplicates(),columns = ['patient_id'])
+	df['new_patient_id'] = df.reset_index().index
 	#df['type'] = np.where(df['cohort_f']== 1,np.where(df['predicted_value']==1,"True Positive","False Negative"),np.where(df['predicted_value']==1,"False Positive","True Negative"))
-	#patient_id_mask_mapping = df[['patient_id','new_patient_id']]
+	patient_id_mask_mapping = df[['patient_id','new_patient_id']]
 	#df['patient_id'] = df['new_patient_id']
 	#df = df.drop(['new_patient_id'], axis = 1)
-	return df
+	return patient_id_mask_mapping
 
 		
 	## Function to create phenotype groups	
@@ -277,9 +277,9 @@ def create_pt_lvl_comb_flags(df_wt,df_hf,desired_combinations,wt_pt,hf_pt):
 	
 
 def masking_with_mapp(df,mapping):
-	#df = df.merge(mapping,how = 'inner', on ='patient_id')
-	#df['patient_id'] = df['new_patient_id']
-	#df = df.drop('new_patient_id', axis = 1)
+	df = df.merge(mapping,how = 'inner', on ='patient_id')
+	df['patient_id'] = df['new_patient_id']
+	df = df.drop('new_patient_id', axis = 1)
 	return df
 
 def create_prediction_cohorts(df):
@@ -301,7 +301,7 @@ def create_prediction_cohorts(df):
 	total_here_pt = here_pt.shape[0]
 	total_here_incl_E851_pt = here_incl_E851_pt.shape[0]
 	total_hf_pt = hf_pt.shape[0]
-	random_number_list=[]
+	random_number_list=[]	
 	while len(random_number_list) < total_hf_pt:
 		r = random.randint(1,total_hf_pt)
 		if r not in random_number_list: random_number_list.append(r)
@@ -355,7 +355,7 @@ def create_prediction_cohorts(df):
 		df_hered_incl_E851_1_9 = df_hered_incl_E851_1_9_p.merge(input_df, on ='patient_id', how = 'inner')
 	
 	if total_hf_pt<total_here_incl_E851_pt*19:
-		print("Not enough Heart Failure patients for 1:1 Hereditary including E851 cohort")
+		print("Not enough Heart Failure patients for 1:19 Hereditary including E851 cohort")
 		df_hered_incl_E851_1_19=pd.DataFrame()
 	else:
 		print("Creating 1:19 Hereditary including E851 cohort......")
@@ -388,5 +388,11 @@ def create_prediction_cohorts(df):
 		df_1_1_p = pd.DataFrame(df_1_1_p['patient_id'])
 		df_1_1 = df_1_1_p.merge(input_df, on ='patient_id', how = 'inner')
 	return df_1_1,df_1_9,df_1_19,df_hered_1_1,df_hered_1_9,df_hered_1_19,df_hered_incl_E851_1_1,df_hered_incl_E851_1_9,df_hered_incl_E851_1_19
-	
+def prob_adjustment(df,demographics_file,prob_adjst_file):
+	output_df = df.merge(demographics_file, on = 'patient_id', how = 'left')
+	output_df = output_df.merge(prob_adjst_file, on = ['age','sex'], how = 'left')
+	output_df['adjusted_probability'] = output_df['multiplier']*output_df['probability_of_value_1']
+	output_df['suspicion_index'] = output_df['probability_of_value_1']/output_df['probability_of_value_0']
+	output_df = output_df.drop(['age_sex_wt_count','wt_posterior_age_sex','hf_posterior_age_sex','age_sex_hf_count','multiplier','cohort_f'],axis =1)
+	return output_df
 	

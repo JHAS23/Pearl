@@ -1,11 +1,11 @@
 Confusion,Matrix,Predicted,Predicted
 ,,1,0
 Actual,1,1,0
-Actual,0,1,0
+Actual,0,0,1
 ,,,
 0,Sensitivity:,1.0
-1,Specificity,0.0
-2,PPV,0.5
-3,NPV,
-4,Accuracy,0.5
+1,Specificity,1.0
+2,PPV,1.0
+3,NPV,1.0
+4,Accuracy,1.0
 5,ROC,1.0

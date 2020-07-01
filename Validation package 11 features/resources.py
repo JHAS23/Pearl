@@ -14,7 +14,7 @@ import itertools
 
 class Paths:
 	## Creating paths for input files
-	def __init__(self, cwd, input_file_name):
+	def __init__(self, cwd, input_file_name, demographics_file_path):
 		self.input_df_path = input_file_name
 		self.input_folder_path = os.path.join(cwd)
 		self.icd_map_path = os.path.join(self.input_folder_path,'icd_map.csv')
@@ -25,6 +25,8 @@ class Paths:
 		self.model_file_incl_all_path = os.path.join(self.input_folder_path,'rf_best_params_3_6.sav')
 		self.phenotype_groups_path = os.path.join(self.input_folder_path, 'phenotype_groups.csv')
 		self.phenotype_comb_list_path = os.path.join(self.input_folder_path,'phenotype_21_combs.csv')
+		self.demographics_file_path = demographics_file_path
+		self.prob_adjst_path = os.path.join(self.input_folder_path,'prob_adjustment.csv')
 
 class Datasets:
 	## Reading paths to load files onto the system
@@ -39,6 +41,8 @@ class Datasets:
 		self.model_file_incl_all = joblib.load(paths.model_file_incl_all_path)
 		self.phe_group = pd.read_csv(paths.phenotype_groups_path)
 		self.phenotype_comb_list = pd.read_csv(paths.phenotype_comb_list_path)
+		self.demographics_file = pd.read_csv(paths.demographics_file_path)
+		self.prob_adjst_file = pd.read_csv(paths.prob_adjst_path)
 	
 	## Creating multiple flags at patient level for WT	
 	def tag_patients(df,prediction_results,diagnosis_count,flags):

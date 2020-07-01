@@ -10,14 +10,14 @@ input_dir = os.path.join(os.getcwd().strip(),"Inputs")
 os.chdir(input_dir)
 input_name = input("Input File Name (example: sample_input.csv): ")
 input_path = os.path.join(input_dir.strip(),"user_input_files")
-print(input_path)
+#print(input_path)
 os.chdir(input_path)
 input_path = os.path.join(input_path.strip(),input_name)
-print(input_path)
+#print(input_path)
 #os.chdir(input_path)
 input_file = pd.read_csv(input_path)
 
-print("Cleaning input file...")
+print("Reducing input file size...")
 input_file = input_file.drop_duplicates()
 input_file['codes'] = input_file['codes'].str.replace('.', '')
 input_file['codes'] = input_file['codes'].str.replace(',', '')
@@ -68,19 +68,18 @@ df_1_1 = pd.DataFrame()
 df_1_9 = pd.DataFrame()
 df_1_19 = pd.DataFrame()
 
-
 if total_wt_pt_count > total_hf_pt_count:
     print("Not Enough Heart Failure Patients To Create Prediction Cohorts")
 if 19*total_wt_pt_count<=total_hf_pt_count:
-    print("Creating 1:19 cohort...")
+    print("Creating reduced cohort...")
     df_1_19 = pd.concat([final_wt_pat,final_hf_pat.sample(21*total_wt_pt_count,random_state=1337,replace=False)])
     df_1_19 = pd.DataFrame(df_1_19['patient_id'],columns = ['patient_id'])
 elif 9*total_wt_pt_count<=total_hf_pt_count:
-    print("Creating 1:9 cohort...")
+    print("Creating reduced cohort...")
     df_1_9 = pd.concat([final_wt_pat,final_hf_pat.sample(11*total_wt_pt_count,random_state=1337,replace=False)])
     df_1_9 = pd.DataFrame(df_1_9['patient_id'],columns = ['patient_id'])
 elif total_wt_pt_count<=total_hf_pt_count:
-    print("Creating 1:1 cohort...")
+    print("Creating reduced cohort...")
     df_1_1 = pd.concat([final_wt_pat,final_hf_pat.sample(2*total_wt_pt_count,random_state=1337,replace=False)])
     df_1_1 = pd.DataFrame(df_1_1['patient_id'],columns = ['patient_id'])
             
